@@ -1,0 +1,240 @@
+date_of_incident;status,incident_type,resolved_date,name,technician_team,customer_number,name,customer_email,account_created,package
+2023-09-24 16:57:33; Closed,1,28/09/2023 18:00,Joseph Johnson,Dolphins,MA7977,Maria Allen,maria.allen@rothestrada.org,14/10/2018 15:14,enterprise
+2023-09-06 23:38:53; Closed,1,16/09/2023 00:31,Gary Cochran,Bears,EH5546,Earl Hogan,earl.hogan@aobell.com,10/02/2019 01:16,basic
+2023-09-20 03:28:49; Closed,1,24/09/2023 08:18,Gary Cochran,Bears,EH5546,,,,
+2023-09-22 04:43:49; Open,1,,Keith Harper,Bears,KS9985,Kristina Singh,kristina.singh@aobell.com,14/04/2019 22:28,basic
+2023-09-23 04:16:42; Open,1,,Phillip Valdez,Cardinals,SM7859,Sara Moody,sara.moody@cochraninc.io,02/09/2018 13:10,enterprise
+2023-09-03 11:29:44; Closed,1,12/09/2023 17:43,Ryan Fox,Cardinals,JJ9095,Jonathan Jackson,jonathan.jackson@gsnail.com,25/10/2018 20:03,basic
+2023-09-02 10:19:41; Open,1,,Edward Jackson,Bears,AC1584,Ashley Chen,ashley.chen@gsnail.com,05/02/2022 05:51,basic
+2023-09-03 14:23:27; Closed,1,14/09/2023 21:18,Edward Jackson,Bears,AC1584,,,,
+2023-09-02 21:33:07; Open,3,,Nicholas Black,Cardinals,MS2390,Michael Smith,michael.smith@aobell.com,26/10/2018 17:41,basic
+2023-09-20 18:42:10; Closed,1,22/09/2023 22:27,Gary Cochran,Bears,MY1889,Matthew Yang,matthew.yang@aobell.com,24/09/2019 06:14,pro
+2023-09-27 19:16:56; Closed,2,28/09/2023 10:04,Gary Cochran,Bears,MY1889,,,,
+2023-09-28 10:11:25; Closed,1,28/09/2023 18:47,Gary Cochran,Bears,MY1889,,,,
+2023-09-28 09:45:41; Open,1,,Gary Cochran,Bears,KK8228,Kari Kelly,kari.kelly@wagnerinccom,12/10/2022 02:26,enterprise
+2023-09-04 08:41:19; Open,1,,Gary Cochran,Bears,KG6624,Kendra Giles,kendra.giles@bauerandsonscom,13/08/2020 16:14,enterprise
+2023-09-22 05:31:28; Closed,1,23/09/2023 08:28,Keith Harper,Bears,BH7796,Bianca Herring,bianca.herring@garciariceandanderson.org,03/08/2022 02:04,enterprise
+2023-09-26 16:42:29; Closed,1,28/09/2023 13:32,Edward Jackson,Bears,AW8934,Amber White,amber.white@aobell.com,20/11/2021 00:52,basic
+2023-09-27 18:18:12; Closed,1,29/09/2023 18:16,Christopher Hall,Cardinals,AF2888,Ashley Fuller,ashley.fuller@frostramos.org,13/06/2018 15:40,enterprise
+2023-09-20 16:08:48; Closed,1,25/09/2023 03:03,Edward Jackson,Bears,IF8400,Isabella Fleming,isabella.fleming@estesllc.io,09/07/2021 16:34,enterprise
+2023-09-22 14:42:32; Closed,1,23/09/2023 01:07,Martha Graham,Bears,JG5011,Jamie Glenn,jamie.glenn@coldmail.com,16/06/2018 22:20,basic
+2023-09-18 09:03:52; Closed,1,29/09/2023 01:58,Keith Harper,Bears,MD3566,Mark Dominguez,mark.dominguez@coldmail.com,27/05/2021 14:39,basic
+2023-09-13 14:21:41; Closed,1,19/09/2023 21:03,Martha Graham,Bears,AA6022,Amber Anderson,amber.anderson@aobell.com,22/05/2018 07:16,basic
+2023-09-25 09:30:04; Closed,1,29/09/2023 08:31,Edward Jackson,Bears,WW3052,Wayne Woods,wayne.woods@gsnail.com,07/05/2019 16:07,basic
+2023-09-23 18:42:51; Closed,1,25/09/2023 14:44,Christopher Hall,Cardinals,DC6713,Douglas Caldwell,douglas.caldwell@aobell.com,11/11/2022 22:10,basic
+2023-09-24 18:59:54; Open,1,,Ryan Fox,Cardinals,LJ1880,Linda Jackson,linda.jackson@mannplc.io,21/02/2021 00:32,enterprise
+2023-09-27 20:31:33; Closed,1,29/09/2023 16:44,Ryan Fox,Cardinals,LJ1880,,,,
+2023-09-23 05:01:46; Closed,1,28/09/2023 18:51,Gary Cochran,Bears,SA1280,Sarah Allen,sarah.allen@coldmail.com,24/05/2022 20:52,basic
+2023-09-25 09:07:55; Closed,2,26/09/2023 02:57,Martha Graham,Bears,JA6561,Jerry Anthony,jerry.anthony@aobell.com,27/11/2019 04:58,basic
+2023-09-04 11:25:04; Open,1,,Martha Graham,Bears,AM8523,Amber Mccarthy,amber.mccarthy@aobell.com,17/08/2019 04:26,pro
+2023-09-25 17:52:34; Closed,1,27/09/2023 20:27,Joseph Johnson,Dolphins,DM3256,Donna Mejia,donna.mejia@brownplccom,10/06/2019 19:51,enterprise
+2023-09-12 03:56:27; Open,1,,Joseph Johnson,Dolphins,AC6033,Ashley Contreras,ashley.contreras@gsnail.com,20/12/2019 20:19,pro
+2023-09-19 00:11:41; Closed,1,20/09/2023 01:32,Martha Graham,Bears,BL5595,Brandy Lopez,brandy.lopez@caseyramirez.io,09/06/2018 21:48,enterprise
+2023-09-22 04:50:13; Open,2,,Christopher Hall,Cardinals,CM3045,Christopher Murphy,christopher.murphy@harmonhamilton.io,25/10/2021 19:44,enterprise
+2023-09-28 19:31:52; Closed,1,29/09/2023 22:33,Christopher Hall,Cardinals,KD6628,Kevin Dixon,kevin.dixon@gsnail.com,25/07/2022 08:27,basic
+2023-09-22 17:24:36; Closed,1,24/09/2023 16:31,Edward Jackson,Bears,RB5938,Rebecca Brown,rebecca.brown@coldmail.com,27/11/2019 20:49,pro
+2023-09-09 09:45:10; Open,,,Joseph Johnson,Dolphins,PE1675,Peter Ellis,peter.ellis@gsnail.com,09/01/2021 10:11,basic
+2023-09-01 22:51:30; Closed,1,20/09/2023 00:57,Phillip Valdez,Cardinals,KM8709,Kaitlin Myers,kaitlin.myers@aobell.com,25/03/2023 05:37,pro
+2023-09-02 03:38:04; Open,1,,Phillip Valdez,Cardinals,KM8709,,,,
+2023-09-17 01:07:55; Open,1,,Phillip Valdez,Cardinals,KM8709,,,,
+2023-09-18 05:56:45; Closed,1,18/09/2023 11:21,Phillip Valdez,Cardinals,KM8709,,,,
+2023-09-15 12:48:55; Open,1,,Phillip Valdez,Cardinals,KM8709,,,,
+2023-09-16 04:50:49; Open,1,,Gary Cochran,Bears,TP2552,Tracy Perez,tracy.perez@aobell.com,16/02/2023 08:45,basic
+2023-09-13 16:44:17; Closed,1,26/09/2023 23:19,Ryan Fox,Cardinals,AK9890,Anthony Kaufman,anthony.kaufman@orozcolawrenceandreyes.org,27/09/2019 17:14,enterprise
+2023-09-09 13:08:01; Closed,1,27/09/2023 03:16,Nicholas Black,Cardinals,CJ2971,Carl Johnson,carl.johnson@novakllccom,15/09/2018 03:12,enterprise
+2023-09-04 03:30:24; Closed,1,17/09/2023 20:54,Edward Jackson,Bears,VS5742,Veronica Smith,veronica.smith@brownhansenandwhite.io,15/01/2019 12:36,enterprise
+2023-09-03 11:30:53; Open,1,,Martha Graham,Bears,SH4000,Steve Hopkins,steve.hopkins@websterlove.io,17/12/2019 16:50,enterprise
+2023-09-27 21:39:33; Closed,2,28/09/2023 17:40,Joseph Johnson,Dolphins,RO5995,Ricardo Oliver,ricardo.oliver@gsnail.com,28/11/2018 21:59,basic
+2023-09-18 20:45:01; Closed,1,21/08/2023 03:03,Christopher Hall,Cardinals,DE6263,Daniel Elliott,daniel.elliott@tannerplc.io,23/10/2021 21:51,enterprise
+2023-09-21 01:14:29; Closed,2,23/09/2023 18:58,Ryan Fox,Cardinals,DR1101,Diane Randall,diane.randall@moonandersonandwinterscom,11/05/2020 23:48,enterprise
+2023-09-17 09:38:28; Closed,1,28/09/2023 07:06,Joseph Johnson,Dolphins,DM6306,Denise Mann,denise.mann@gsnail.com,07/07/2023 22:23,basic
+2023-09-04 13:39:44; Open,1,,Gary Cochran,Bears,CH5890,Christina Hill,christina.hill@coldmail.com,03/10/2018 14:35,basic
+2023-09-05 21:41:26; Closed,1,14/09/2023 06:44,Martha Graham,Bears,HB5340,Heidi Boyer,heidi.boyer@coldmail.com,12/08/2020 09:44,basic
+2023-09-14 19:29:29; Open,1,,Martha Graham,Bears,BG5691,Brittney Gardner,brittney.gardner@gsnail.com,17/06/2019 00:35,basic
+2023-09-03 09:49:26; Closed,1,21/09/2023 06:42,Phillip Valdez,Cardinals,TC4764,Travis Copeland,travis.copeland@coldmail.com,15/10/2019 00:12,basic
+2023-09-06 17:10:47; Closed,1,11/09/2023 05:47,Christopher Hall,Cardinals,BH4237,Benjamin Hunt,benjamin.hunt@aobell.com,19/10/2021 03:35,pro
+2023-09-21 14:11:29; Open,2,,Martha Graham,Bears,KW6663,Kristina Washington,kristina.washington@aobell.com,02/09/2022 00:12,basic
+2023-09-28 08:11:36; Open,1,,Christopher Hall,Cardinals,BJ8268,Bradley Jones,bradley.jones@coldmail.com,09/11/2018 07:15,pro
+2023-09-04 07:19:02; Closed,1,23/09/2023 04:15,Christopher Hall,Cardinals,BJ8268,,,,
+2023-09-27 01:37:21; Closed,1,28/09/2023 17:13,Christopher Hall,Cardinals,BJ8268,,,,
+2023-09-26 21:47:08; Open,1,,Christopher Hall,Cardinals,EM6330,Elizabeth Mitchell,elizabeth.mitchell@coldmail.com,19/06/2023 02:16,basic
+2023-09-12 02:58:44; Open,1,,Christopher Hall,Cardinals,EM6330,,,,
+2023-09-24 02:36:51; Closed,1,28/09/2023 22:00,Phillip Valdez,Cardinals,VW4473,Valerie Watkins,valerie.watkins@gsnail.com,19/03/2018 17:17,basic
+2023-09-10 04:37:57; Closed,2,24/09/2023 06:11,Martha Graham,Bears,CF7204,Colin Fischer,colin.fischer@aobell.com,27/05/2023 06:02,basic
+2023-09-23 09:53:30; Closed,1,24/09/2023 11:09,Gary Cochran,Bears,KW7848,Kim Weiss,kim.weiss@coldmail.com,04/07/2020 16:35,pro
+2023-09-09 13:15:16; Closed,2,14/09/2023 22:47,Martha Graham,Bears,KG8402,Kerry Griffith,kerry.griffith@coldmail.com,24/05/2022 07:10,basic
+2023-09-21 20:34:53; Open,1,,Joseph Johnson,Dolphins,TB8824,Thomas Buck,thomas.buck@coldmail.com,28/01/2020 21:02,pro
+2023-09-08 02:20:14; Closed,1,13/09/2023 01:18,Phillip Valdez,Cardinals,AB9489,Ann Barker,ann.barker@patelltd.org,02/08/2023 14:41,enterprise
+2023-09-11 20:41:10; Open,2,,Ryan Fox,Cardinals,LT3948,Lauren Trevino,lauren.trevino@boyleltd.io,06/07/2019 21:21,enterprise
+2023-09-18 00:48:44; Closed,2,26/09/2023 08:55,Edward Jackson,Bears,SB8286,Susan Brown,susan.brown@phillipsllccom,02/07/2019 05:27,enterprise
+2023-09-17 22:55:34; Closed,1,29/09/2023 20:41,Ryan Fox,Cardinals,ST2370,Sandra Taylor,sandra.taylor@coldmail.com,20/08/2023 03:47,basic
+2023-09-10 19:10:07; Open,3,,Edward Jackson,Bears,LW5994,Lisa West,lisa.west@gsnail.com,21/09/2019 22:39,basic
+2023-09-04 15:58:07; Closed,1,26/09/2023 18:44,Edward Jackson,Bears,AM7713,Alexander Mora,alexander.mora@gsnail.com,22/02/2018 09:45,basic
+2023-09-09 17:25:53; Closed,1,28/09/2023 08:35,Joseph Johnson,Dolphins,JB9213,Jacob Bass,jacob.bass@coldmail.com,26/12/2022 15:57,basic
+2023-09-11 14:13:53; Closed,1,20/09/2023 01:11,Ryan Fox,Cardinals,VW3470,Victoria Warren,victoria.warren@thomasplc.org,06/02/2023 16:32,enterprise
+2023-09-07 22:38:10; Open,1,,Christopher Hall,Cardinals,JL7658,Jonathan Lyons,jonathan.lyons@norriscarlsonandbush.org,28/06/2020 10:09,enterprise
+2023-09-10 13:03:37; Closed,3,16/09/2023 03:37,Christopher Hall,Cardinals,AW2669,Andrew White,andrew.white@aobell.com,02/08/2021 04:27,basic
+2023-09-22 14:15:24; Closed,1,28/09/2023 09:44,Gary Cochran,Bears,SA4087,Sarah Anderson,sarah.anderson@fosteratkinsandspencer.org,21/04/2022 06:54,enterprise
+2023-09-22 05:18:49; Closed,1,18/09/2023 06:14,Nicholas Black,Cardinals,JR5288,Jason Roberts,jason.roberts@coldmail.com,04/07/2022 05:47,basic
+2023-09-15 11:06:20; Closed,1,26/09/2023 00:39,Edward Jackson,Bears,RL1700,Rebecca Lara,rebecca.lara@aobell.com,03/05/2019 13:17,basic
+2023-09-29 09:52:45; Open,1,,Martha Graham,Bears,JM2480,Jennifer Martinez,jennifer.martinez@perezpeckandmurray.org,22/11/2022 11:12,enterprise
+2023-09-10 17:22:06; Open,1,,Christopher Hall,Cardinals,JS5670,John Sanchez,john.sanchez@aobell.com,28/06/2023 13:55,basic
+2023-09-27 14:16:16; Closed,1,29/09/2023 07:29,Ryan Fox,Cardinals,SC1594,Samantha Clark,samantha.clark@gibsonandsonscom,15/04/2019 10:23,enterprise
+2023-09-04 03:04:01; Closed,2,23/09/2023 18:17,Martha Graham,Bears,LS7588,Linda Smith,linda.smith@coldmail.com,26/12/2022 10:16,pro
+2023-09-11 22:55:48; Closed,2,28/09/2023 06:06,Joseph Johnson,Dolphins,AC2645,Ashley Campbell,ashley.campbell@aobell.com,13/10/2020 03:21,pro
+2023-09-15 22:12:55; Open,2,,Gary Cochran,Bears,LD8869,Larry Daniels,larry.daniels@aobell.com,18/07/2019 10:20,basic
+2023-09-15 14:12:08; Closed,1,21/09/2023 14:57,Nicholas Black,Cardinals,HC1315,Hannah Clark,hannah.clark@coldmail.com,25/10/2020 19:48,pro
+2023-09-19 11:11:43; Open,1,,Nicholas Black,Cardinals,HC1315,,,,
+2023-09-01 03:09:28; Open,1,,Phillip Valdez,Cardinals,JF5131,John Fowler,john.fowler@gsnail.com,19/05/2021 10:11,basic
+2023-09-09 02:59:17; Closed,1,27/09/2023 06:28,Joseph Johnson,Dolphins,EG9553,Elizabeth Gomez,elizabeth.gomez@gsnail.com,03/12/2021 21:43,basic
+2023-09-01 13:27:04; Closed,1,24/09/2023 05:29,Christopher Hall,Cardinals,OJ4027,Olivia Jackson,olivia.jackson@gsnail.com,03/08/2018 03:53,basic
+2023-09-08 01:39:01; Closed,1,13/09/2023 09:18,Joseph Johnson,Dolphins,JS1941,Jennifer Spears,jennifer.spears@gsnail.com,20/08/2020 12:46,pro
+2023-09-23 05:05:08; Closed,1,26/09/2023 01:23,Nicholas Black,Cardinals,JM2679,Jason Murphy,jason.murphy@gsnail.com,08/07/2021 20:08,pro
+2023-09-01 15:16:53; Open,,,Nicholas Black,Cardinals,AL2057,Alyssa Lara,alyssa.lara@gsnail.com,10/08/2021 04:38,basic
+2023-09-27 07:52:26; Closed,1,28/09/2023 01:27,Edward Jackson,Bears,JR3540,John Roach,john.roach@lynchsullivan.io,05/04/2018 08:25,enterprise
+2023-09-15 05:13:32; Closed,1,26/09/2023 05:10,Nicholas Black,Cardinals,JC3365,Jamie Chen,jamie.chen@aobell.com,26/01/2023 18:18,basic
+2023-09-19 12:07:07; Closed,3,22/09/2023 21:03,Martha Graham,Bears,JO2417,James Oneill,james.oneill@baldwinguerraandparkercom,21/11/2021 11:42,enterprise
+2023-09-13 14:49:11; Closed,3,21/09/2023 05:25,Ryan Fox,Cardinals,MK7369,Michael Key,michael.key@coldmail.com,19/10/2018 06:17,basic
+2023-09-15 12:49:02; Open,2,,Ryan Fox,Cardinals,MK7369,,,,
+2023-09-24 13:41:42; Closed,2,26/09/2023 14:45,Phillip Valdez,Cardinals,JG2065,James Graham,james.graham@baileysaundersandsparks.io,05/04/2018 09:59,enterprise
+2023-09-29 01:39:57; Closed,1,29/09/2023 20:49,Nicholas Black,Cardinals,JH7087,Jonathan Harrison,jonathan.harrison@coldmail.com,25/10/2021 00:18,basic
+2023-09-14 12:21:35; Closed,1,18/09/2023 18:33,Gary Cochran,Bears,NC5379,Nicole Clark,nicole.clark@aobell.com,22/08/2023 22:26,basic
+2023-09-15 12:23:13; Open,1,,Gary Cochran,Bears,NC5379,,,,
+2023-09-03 02:11:21; Closed,1,03/09/2023 17:16,Martha Graham,Bears,SR1913,Shane Reyes,shane.reyes@aobell.com,21/01/2018 21:41,basic
+2023-09-12 21:31:39; Open,,,Nicholas Black,Cardinals,AM7307,Austin Mason,austin.mason@coldmail.com,27/12/2018 18:33,basic
+2023-09-04 17:42:15; Open,1,,Ryan Fox,Cardinals,CP2639,Crystal Powell,crystal.powell@orrcrawfordcom,30/11/2018 07:54,enterprise
+2023-09-24 08:53:08; Open,2,,Nicholas Black,Cardinals,JR5976,Jennifer Reynolds,jennifer.reynolds@gsnail.com,12/11/2021 10:59,basic
+2023-09-22 23:36:35; Open,2,,Keith Harper,Bears,TB8744,Tara Banks,tara.banks@gsnail.com,22/02/2021 04:54,pro
+2023-09-23 03:33:43; Closed,1,26/09/2023 17:36,Keith Harper,Bears,BG7659,Brian Gonzalez,brian.gonzalez@mathisandsons.io,30/04/2022 17:56,enterprise
+2023-09-11 06:54:38; Closed,1,17/09/2023 08:04,Keith Harper,Bears,EM9981,Edward Mercado,edward.mercado@nicholsthompsonandscott.org,20/02/2022 22:33,enterprise
+2023-09-23 06:14:40; Closed,1,27/09/2023 21:45,Phillip Valdez,Cardinals,SG8814,Samuel Gutierrez,samuel.gutierrez@gsnail.com,01/08/2023 07:42,pro
+2023-09-09 09:00:04; Closed,1,14/09/2023 11:39,Edward Jackson,Bears,JR6864,Jill Riley,jill.riley@gsnail.com,19/03/2021 21:51,basic
+2023-09-08 23:57:23; Closed,1,16/09/2023 18:08,Keith Harper,Bears,TS6924,Thomas Sanchez,thomas.sanchez@aobell.com,15/08/2022 17:06,basic
+2023-09-22 10:20:58; Closed,1,22/09/2023 16:03,Christopher Hall,Cardinals,LW3009,Lori Watson,lori.watson@gsnail.com,21/06/2019 00:15,basic
+2023-09-13 13:25:18; Closed,1,04/08/2023 06:35,Ryan Fox,Cardinals,CH2921,Chase Hansen,chase.hansen@wolfeinc.io,27/06/2022 03:07,enterprise
+2023-09-03 12:37:39; Open,1,,Martha Graham,Bears,DG4302,Donna Gill,donna.gill@gonzalezsimpsonandwilliamscom,21/06/2020 17:37,enterprise
+2023-09-09 12:23:50; Closed,2,19/09/2023 00:40,Edward Jackson,Bears,MM8444,Matthew Miller,matthew.miller@perezriveracom,15/12/2019 11:52,enterprise
+2023-09-29 06:07:52; Closed,1,29/09/2023 16:51,Edward Jackson,Bears,MM8444,,,,
+2023-09-21 20:38:26; Closed,1,23/09/2023 03:15,Joseph Johnson,Dolphins,AG3521,April Garcia,april.garcia@myersinc.io,20/01/2021 21:08,enterprise
+2023-09-22 16:09:17; Closed,1,26/09/2023 16:17,Keith Harper,Bears,FL4878,Frank Lopez,frank.lopez@coldmail.com,05/01/2018 22:21,basic
+2023-09-09 20:01:11; Closed,1,19/09/2023 07:28,Gary Cochran,Bears,EG2156,Erin Gonzalez,erin.gonzalez@gsnail.com,10/10/2019 11:06,basic
+2023-09-28 13:41:17; Closed,2,28/09/2023 20:19,Gary Cochran,Bears,KP8220,Kenneth Pearson,kenneth.pearson@gsnail.com,14/09/2022 12:29,basic
+2023-09-05 15:55:16; Closed,1,16/09/2023 13:29,Keith Harper,Bears,DW8413,Derrick Welch,derrick.welch@bradleywallaceandpowellcom,23/11/2019 14:28,enterprise
+2023-09-05 02:53:26; Closed,1,10/09/2023 07:42,Phillip Valdez,Cardinals,JS1648,Joe Simpson,joe.simpson@stuartskinnerandbennettcom,20/01/2021 03:13,enterprise
+2023-09-21 17:33:26; Closed,1,25/09/2023 21:15,Joseph Johnson,Dolphins,PK6037,Philip Kirk,philip.kirk@aobell.com,25/01/2021 05:49,basic
+2023-09-08 10:37:04; Closed,1,11/09/2023 05:24,Christopher Hall,Cardinals,BW6577,Betty Wolfe,betty.wolfe@pagehall.org,27/03/2022 07:00,enterprise
+2023-09-22 11:56:13; Closed,1,15/08/2023 08:42,Edward Jackson,Bears,HW9570,Holly Wong,holly.wong@aobell.com,06/01/2018 20:50,basic
+2023-09-19 07:00:29; Open,1,,Edward Jackson,Bears,HW9570,,,,
+2023-09-23 07:11:16; Closed,1,27/08/2023 04:39,Keith Harper,Bears,KS2105,Kristin Smith,kristin.smith@coldmail.com,12/12/2018 13:55,pro
+2023-09-29 11:37:24; Closed,1,18/08/2023 00:20,Joseph Johnson,Dolphins,RG6210,Regina Grimes,regina.grimes@gsnail.com,08/01/2022 12:42,pro
+2023-09-09 19:12:46; Closed,1,14/09/2023 09:33,Phillip Valdez,Cardinals,TF9446,Tiffany Flores,tiffany.flores@wilsongroup.io,07/08/2023 04:56,enterprise
+2023-09-16 14:25:32; Closed,1,24/09/2023 14:20,Phillip Valdez,Cardinals,TN1712,Tiffany Nelson,tiffany.nelson@coldmail.com,15/05/2019 02:09,pro
+2023-09-29 21:50:03; Closed,1,29/09/2023 22:49,Christopher Hall,Cardinals,GM5605,Gary Mack,gary.mack@whitecline.org,28/12/2018 14:00,enterprise
+2023-09-03 21:03:30; Closed,2,21/09/2023 15:28,Martha Graham,Bears,KB7014,Kelly Barnes,kelly.barnes@romeroperryandgarciacom,04/05/2019 23:24,enterprise
+2023-09-29 23:40:09; Closed,1,29/09/2023 23:43,Gary Cochran,Bears,EM6830,Edward Maxwell,edward.maxwell@coldmail.com,17/04/2022 16:40,basic
+2023-09-02 22:54:57; Closed,1,25/09/2023 07:42,Gary Cochran,Bears,CW4732,Charlotte Williams,charlotte.williams@coldmail.com,02/08/2020 17:09,basic
+2023-09-10 08:31:55; Open,,,Ryan Fox,Cardinals,MR2880,Mary Rangel,mary.rangel@coldmail.com,23/02/2021 23:45,basic
+2023-09-25 17:22:22; Open,2,,Martha Graham,Bears,WR2377,William Rios,william.rios@gsnail.com,26/02/2020 17:00,basic
+2023-09-13 20:59:26; Open,1,,Gary Cochran,Bears,DH6563,Dennis Huang,dennis.huang@coldmail.com,29/09/2021 14:10,basic
+2023-09-20 23:36:30; Open,3,,Phillip Valdez,Cardinals,JN6937,Joseph Nelson,joseph.nelson@gsnail.com,20/11/2020 05:45,basic
+2023-09-27 17:59:40; Open,1,,Christopher Hall,Cardinals,JB3246,Jonathan Baker,jonathan.baker@millersimoncom,16/08/2022 05:08,enterprise
+2023-09-26 20:45:56; Closed,1,28/09/2023 07:06,Joseph Johnson,Dolphins,MW9455,Matthew Walton,matthew.walton@gsnail.com,18/04/2022 22:03,basic
+2023-09-14 02:11:05; Closed,1,23/09/2023 21:01,Joseph Johnson,Dolphins,HB7319,Heather Barber,heather.barber@gsnail.com,24/05/2022 03:05,pro
+2023-09-25 00:16:07; Closed,1,26/09/2023 17:46,Gary Cochran,Bears,JI6049,Janice Irwin,janice.irwin@shafferturnerandrodgers.io,18/07/2021 21:14,enterprise
+2023-09-08 17:26:42; Closed,2,17/09/2023 23:00,Ryan Fox,Cardinals,CP1756,Chad Phillips,chad.phillips@francoinccom,27/03/2023 06:01,enterprise
+2023-09-01 04:11:54; Open,,,Joseph Johnson,Dolphins,TT2308,Tracy Trujillo,tracy.trujillo@coldmail.com,07/07/2019 17:10,basic
+2023-09-15 12:54:18; Closed,1,25/09/2023 08:41,Gary Cochran,Bears,DW9407,Danielle Walton,danielle.walton@aobell.com,13/07/2018 20:53,basic
+2023-09-28 02:17:51; Closed,1,28/09/2023 05:14,Keith Harper,Bears,SR1795,Sandra Rodriguez,sandra.rodriguez@gsnail.com,29/06/2018 05:01,basic
+2023-09-07 00:55:00; Open,1,,Phillip Valdez,Cardinals,MT6938,Melissa Tucker,melissa.tucker@coldmail.com,22/10/2020 15:31,basic
+2023-09-18 23:51:21; Closed,1,20/09/2023 23:37,Phillip Valdez,Cardinals,MT6938,,,,
+2023-09-09 21:51:36; Closed,1,12/09/2023 14:35,Edward Jackson,Bears,AC6506,Angela Clark,angela.clark@smithzuniga.org,07/07/2019 14:53,enterprise
+2023-09-29 07:09:02; Closed,1,29/09/2023 12:30,Nicholas Black,Cardinals,TM9703,Traci Mcguire,traci.mcguire@coldmail.com,24/10/2021 11:39,basic
+2023-09-27 12:56:57; Closed,1,28/09/2023 05:28,Martha Graham,Bears,JJ1049,Javier Johnson,javier.johnson@kingltd.org,30/12/2021 21:22,enterprise
+2023-09-13 00:49:29; Open,1,,Phillip Valdez,Cardinals,JA2112,Jessica Alvarado,jessica.alvarado@farrellinc.org,04/08/2021 10:58,enterprise
+2023-09-19 23:54:40; Closed,1,26/09/2023 07:07,Gary Cochran,Bears,NJ8168,Nathan Jackson,nathan.jackson@coldmail.com,27/01/2018 04:05,basic
+2023-09-16 17:20:43; Open,1,,Gary Cochran,Bears,NJ8168,,,,
+2023-09-29 15:52:33; Closed,1,29/09/2023 16:43,Nicholas Black,Cardinals,HS5997,Harold Sanchez,harold.sanchez@aobell.com,09/06/2023 17:39,basic
+2023-09-01 22:53:16; Closed,1,19/09/2023 00:31,Martha Graham,Bears,JB2480,Jake Brown,jake.brown@coldmail.com,15/01/2020 23:18,pro
+2023-09-03 07:01:18; Open,1,,Joseph Johnson,Dolphins,JJ4773,Julie Johnson,julie.johnson@gsnail.com,22/01/2018 11:31,basic
+2023-09-22 21:52:56; Closed,1,25/09/2023 23:41,Keith Harper,Bears,RJ7790,Raymond Jones,raymond.jones@gsnail.com,14/01/2022 06:28,basic
+2023-09-24 22:48:09; Closed,3,28/09/2023 23:25,Phillip Valdez,Cardinals,NB9187,Nicholas Banks,nicholas.banks@coldmail.com,25/08/2023 05:17,basic
+2023-09-16 13:56:32; Closed,1,24/09/2023 06:58,Keith Harper,Bears,JC8270,Jennifer Cox,jennifer.cox@johnsonrodriguez.org,15/03/2023 06:41,enterprise
+2023-09-08 22:01:41; Open,2,,Christopher Hall,Cardinals,HG6586,Heather Graves,heather.graves@coldmail.com,07/02/2018 07:03,basic
+2023-09-01 03:22:43; Open,1,,Christopher Hall,Cardinals,HF2089,Heather Ford,heather.ford@aobell.com,06/02/2023 07:21,basic
+2023-09-06 19:48:27; Closed,1,24/09/2023 16:00,Christopher Hall,Cardinals,DN4965,Dave Nelson,dave.nelson@aobell.com,01/07/2019 07:53,basic
+2023-09-04 04:08:34; Closed,1,17/09/2023 09:37,Christopher Hall,Cardinals,DN4965,,,,
+2023-09-15 02:44:48; Closed,1,25/09/2023 15:28,Keith Harper,Bears,RC8100,Roberto Combs,roberto.combs@gsnail.com,18/05/2018 14:42,pro
+2023-09-12 13:38:33; Open,1,,Gary Cochran,Bears,AR7881,Ashley Robinson,ashley.robinson@gsnail.com,30/12/2020 04:07,basic
+2023-09-01 09:34:48; Open,1,,Martha Graham,Bears,RH4041,Renee Hudson,renee.hudson@coldmail.com,09/12/2022 12:55,basic
+2023-09-15 19:42:58; Open,1,,Phillip Valdez,Cardinals,JB6372,Joseph Barton,joseph.barton@gsnail.com,05/07/2023 15:43,basic
+2023-09-19 22:45:52; Open,1,,Phillip Valdez,Cardinals,SH3305,Steven Hamilton,steven.hamilton@riveraallenandmorris.org,30/12/2022 11:46,enterprise
+2023-09-22 13:59:52; Open,3,,Martha Graham,Bears,SR9546,Sandra Ross,sandra.ross@boyermccarthyandtaylor.org,18/09/2021 08:12,enterprise
+2023-09-04 06:13:23; Closed,1,08/09/2023 22:17,Edward Jackson,Bears,SC7617,Sarah Cox,sarah.cox@aobell.com,11/05/2023 14:56,basic
+2023-09-24 04:46:04; Closed,1,27/09/2023 08:46,Martha Graham,Bears,CW7091,Chad Williams,chad.williams@aobell.com,23/05/2018 00:42,basic
+2023-09-12 12:58:25; Closed,1,28/09/2023 23:58,Martha Graham,Bears,DF5063,Daniel Franco,daniel.franco@gsnail.com,23/02/2019 03:19,basic
+2023-09-02 05:44:49; Closed,2,27/09/2023 09:11,Keith Harper,Bears,MC3341,Molly Cook,molly.cook@gsnail.com,23/02/2019 17:49,basic
+2023-09-04 17:12:42; Closed,1,10/08/2023 15:57,Edward Jackson,Bears,MH3872,Miguel Howell,miguel.howell@gsnail.com,13/08/2022 05:44,basic
+2023-09-20 21:55:36; Closed,1,22/09/2023 06:31,Ryan Fox,Cardinals,MG8324,Mary Green,mary.green@jacksonayers.org,08/10/2022 20:06,enterprise
+2023-09-17 20:30:57; Open,1,,Joseph Johnson,Dolphins,LH1479,Leslie Hines,leslie.hines@allenrobertscom,27/05/2019 15:49,enterprise
+2023-09-05 03:17:55; Closed,1,14/09/2023 06:21,Ryan Fox,Cardinals,EJ1970,Edward Jacobs,edward.jacobs@coldmail.com,29/08/2023 20:37,basic
+2023-09-19 02:04:51; Closed,1,25/09/2023 16:25,Ryan Fox,Cardinals,GJ2441,George Johnson,george.johnson@coldmail.com,11/07/2021 22:23,basic
+2023-09-25 02:33:10; Closed,1,28/09/2023 01:56,Nicholas Black,Cardinals,DA8453,Derek Anderson,derek.anderson@coldmail.com,16/01/2019 03:43,pro
+2023-09-25 05:43:57; Closed,1,26/09/2023 05:12,Nicholas Black,Cardinals,DA8453,,,,
+2023-09-27 06:41:35; Closed,1,28/09/2023 21:35,Ryan Fox,Cardinals,KL4724,Kimberly Lopez,kimberly.lopez@aobell.com,12/09/2019 08:51,basic
+2023-09-06 06:43:43; Open,1,,Gary Cochran,Bears,CG2511,Christopher Gonzalez,christopher.gonzalez@chanandsons.io,16/01/2019 13:18,enterprise
+2023-09-03 11:26:24; Closed,1,05/09/2023 19:04,Phillip Valdez,Cardinals,KS8754,Kenneth Stewart,kenneth.stewart@coldmail.com,16/05/2019 16:58,basic
+2023-09-03 16:30:02; Closed,1,26/09/2023 06:46,Ryan Fox,Cardinals,SF2455,Sarah Ferguson,sarah.ferguson@coldmail.com,17/11/2018 10:36,basic
+2023-09-18 20:19:27; Open,2,,Keith Harper,Bears,MW4880,Michael Willis,michael.willis@stuartplc.org,17/07/2022 03:50,enterprise
+2023-09-17 23:17:56; Closed,1,21/09/2023 22:43,Edward Jackson,Bears,NW2079,Nicole Wilson,nicole.wilson@butlerandsonscom,12/06/2020 19:08,enterprise
+2023-09-16 09:44:19; Closed,1,28/09/2023 08:52,Nicholas Black,Cardinals,KR8126,Kayla Rodgers,kayla.rodgers@coldmail.com,27/04/2023 07:27,basic
+2023-09-09 06:41:25; Open,2,,Martha Graham,Bears,ST7995,Scott Tapia,scott.tapia@aobell.com,16/06/2019 11:45,basic
+2023-09-01 17:01:18; Closed,1,29/09/2023 00:48,Keith Harper,Bears,BJ3198,Brittany Jones,brittany.jones@gsnail.com,20/04/2020 17:09,basic
+2023-09-25 00:32:23; Open,1,,Keith Harper,Bears,PS8397,Phillip Stewart,phillip.stewart@rogersinc.io,02/08/2022 20:41,enterprise
+2023-09-16 05:41:45; Closed,1,28/09/2023 11:29,Ryan Fox,Cardinals,CT2561,Carlos Tucker,carlos.tucker@mannlaraandmullins.io,15/09/2020 20:52,enterprise
+2023-09-12 08:44:32; Open,1,,Martha Graham,Bears,AT8930,Andrew Turner,andrew.turner@aobell.com,08/11/2018 14:20,basic
+2023-09-25 09:06:37; Closed,1,28/09/2023 01:06,Christopher Hall,Cardinals,LB4795,Lauren Brown,lauren.brown@brownmcdonald.io,25/07/2023 01:35,enterprise
+2023-09-14 14:03:21; Closed,1,18/09/2023 03:19,Nicholas Black,Cardinals,AN2651,Anne Nicholson,anne.nicholson@williamsltd.org,28/01/2020 06:06,enterprise
+2023-09-03 02:34:53; Closed,1,06/09/2023 07:16,Nicholas Black,Cardinals,IL3619,Isaiah Lowe,isaiah.lowe@bakerinc.org,01/04/2019 03:25,enterprise
+2023-09-24 00:18:20; Closed,3,28/09/2023 09:43,Nicholas Black,Cardinals,CP7605,Crystal Paul,crystal.paul@gsnail.com,18/12/2021 00:55,basic
+2023-09-22 05:00:13; Closed,3,28/09/2023 17:52,Nicholas Black,Cardinals,AM6312,Alexandria Mckee,alexandria.mckee@priceinc.io,27/12/2021 17:45,enterprise
+2023-09-22 17:19:40; Closed,1,26/09/2023 02:56,Phillip Valdez,Cardinals,DT7804,Daniel Trevino,daniel.trevino@aobell.com,18/07/2019 13:18,basic
+2023-09-07 23:24:34; Open,1,,Joseph Johnson,Dolphins,DN4504,Daniel Norris,daniel.norris@aobell.com,13/06/2023 09:05,basic
+2023-09-25 07:34:56; Open,1,,Christopher Hall,Cardinals,DR2457,Dylan Rangel,dylan.rangel@gsnail.com,27/06/2021 07:09,basic
+2023-09-13 08:44:40; Closed,2,17/09/2023 23:24,Joseph Johnson,Dolphins,RT8050,Raymond Taylor,raymond.taylor@gsnail.com,27/01/2019 05:11,basic
+2023-09-26 10:22:48; Open,,,Joseph Johnson,Dolphins,OB9075,Olivia Berry,olivia.berry@robertsonlopezandsantiagocom,19/04/2020 23:38,enterprise
+2023-09-16 02:49:33; Open,2,,Joseph Johnson,Dolphins,OB9075,,,,
+2023-09-10 01:40:28; Closed,1,15/09/2023 20:38,Ryan Fox,Cardinals,RH8622,Rachel Hayden,rachel.hayden@gsnail.com,10/05/2020 16:02,pro
+2023-09-19 06:02:41; Closed,1,24/09/2023 15:27,Christopher Hall,Cardinals,MN3166,Meredith Nicholson,meredith.nicholson@gsnail.com,21/04/2019 20:10,basic
+2023-09-18 16:36:21; Closed,1,19/08/2023 10:50,Keith Harper,Bears,MK5855,Michelle Kennedy,michelle.kennedy@powersllccom,06/05/2018 05:57,enterprise
+2023-09-24 19:28:38; Open,1,,Ryan Fox,Cardinals,CF5631,Christopher Fuentes,christopher.fuentes@riveragroup.io,05/09/2018 23:25,enterprise
+2023-09-26 17:49:14; Closed,3,29/09/2023 21:47,Ryan Fox,Cardinals,JT7497,James Tran,james.tran@aobell.com,21/03/2022 11:46,basic
+2023-09-23 03:59:23; Open,1,,Gary Cochran,Bears,KM6585,Kelly Morris,kelly.morris@wongpowellcom,02/11/2021 14:23,enterprise
+2023-09-13 11:52:54; Open,,,Keith Harper,Bears,DP4074,David Patel,david.patel@roweltdcom,24/05/2023 05:55,enterprise
+2023-09-10 21:53:44; Closed,1,06/08/2023 04:26,Christopher Hall,Cardinals,JD2719,James Davis,james.davis@coldmail.com,04/03/2023 19:23,basic
+2023-09-03 20:41:05; Open,2,,Martha Graham,Bears,VM2927,Victoria Mccoy,victoria.mccoy@romerosmith.io,31/10/2019 10:50,enterprise
+2023-09-13 08:30:44; Closed,1,21/09/2023 15:33,Gary Cochran,Bears,MW9997,Molly White,molly.white@coldmail.com,20/09/2022 22:21,pro
+2023-09-05 13:35:22; Closed,2,20/09/2023 12:34,Christopher Hall,Cardinals,JF5681,Jordan Ferguson,jordan.ferguson@aobell.com,08/07/2022 11:19,basic
+2023-09-26 21:12:25; Closed,1,29/09/2023 09:37,Martha Graham,Bears,LM9508,Laura Moore,laura.moore@gsnail.com,01/06/2018 23:14,basic
+2023-09-15 06:51:37; Closed,1,20/09/2023 15:59,Gary Cochran,Bears,NL1568,Nicolas Lee,nicolas.lee@aobell.com,11/11/2020 09:37,basic
+2023-09-18 20:54:00; Closed,1,28/09/2023 14:46,Keith Harper,Bears,VC5000,Veronica Carlson,veronica.carlson@gsnail.com,15/02/2022 05:09,basic
+2023-09-20 10:19:27; Open,1,,Keith Harper,Bears,VC5000,,,,
+2023-09-12 09:31:44; Closed,1,19/09/2023 11:45,Joseph Johnson,Dolphins,ED2690,Eric Daniel,eric.daniel@thomasgroup.org,03/05/2022 09:57,enterprise
+2023-09-21 03:43:28; Closed,1,21/09/2023 07:40,Edward Jackson,Bears,MH5312,Melissa Harris,melissa.harris@coldmail.com,13/10/2020 04:23,basic
+2023-09-25 19:03:06; Open,1,,Edward Jackson,Bears,MH5312,,,,
+2023-09-26 22:47:41; Closed,3,21/09/2023 01:07,Ryan Fox,Cardinals,TH3363,Tara Hayes,tara.hayes@aobell.com,08/02/2021 05:59,basic
+2023-09-24 11:44:09; Closed,1,27/09/2023 22:00,Ryan Fox,Cardinals,TH3363,,,,
+2023-09-13 10:03:48; Open,1,,Christopher Hall,Cardinals,CV1749,Carol Vega,carol.vega@hollandmartinez.io,08/11/2020 14:13,enterprise
+2023-09-09 18:18:47; Closed,1,12/09/2023 15:14,Phillip Valdez,Cardinals,RG9913,Rebecca Gilmore,rebecca.gilmore@thomasgroup.io,29/11/2019 02:36,enterprise
+2023-09-03 07:53:59; Closed,2,05/09/2023 09:48,Joseph Johnson,Dolphins,CC9242,Corey Conway,corey.conway@aobell.com,09/03/2018 09:37,basic
+2023-09-11 01:43:59; Closed,1,20/09/2023 09:34,Phillip Valdez,Cardinals,KL4747,Kristina Lowe,kristina.lowe@coldmail.com,08/04/2021 06:01,pro
+2023-09-27 03:57:33; Open,2,,Phillip Valdez,Cardinals,KL4747,,,,
+2023-09-11 03:10:29; Open,3,,Phillip Valdez,Cardinals,KL4747,,,,
+2023-09-22 02:01:00; Closed,1,14/09/2023 02:23,Ryan Fox,Cardinals,LB8920,Laura Brown,laura.brown@mullinsgroupcom,26/12/2021 14:26,enterprise
+2023-09-26 03:49:20; Open,1,,Keith Harper,Bears,SC2872,Shane Carroll,shane.carroll@thorntonstrickland.io,18/08/2020 14:18,enterprise
+2023-09-04 15:02:30; Closed,1,20/09/2023 10:39,Martha Graham,Bears,LM1442,Linda Medina,linda.medina@aobell.com,29/04/2018 19:04,basic
+2023-09-06 09:37:53; Closed,2,12/09/2023 06:26,Ryan Fox,Cardinals,WH1982,Willie Henson,willie.henson@buchananmalonecom,02/09/2022 11:49,enterprise
+2023-09-29 12:46:39; Closed,1,29/09/2023 17:19,Ryan Fox,Cardinals,RC2041,Rebecca Chung,rebecca.chung@coldmail.com,11/07/2023 23:08,basic
+2023-09-23 03:52:25; Open,3,,Ryan Fox,Cardinals,KB2591,Katherine Bates,katherine.bates@gsnail.com,25/07/2021 06:34,pro
+2023-09-21 01:59:31; Open,1,,Edward Jackson,Bears,DP8881,Deanna Pena,deanna.pena@coldmail.com,23/02/2019 05:16,basic
+2023-09-06 16:25:35; Closed,1,12/09/2023 20:34,Phillip Valdez,Cardinals,BG5417,Brandon Garcia,brandon.garcia@adkinsgroup.org,22/05/2023 20:03,enterprise
+2023-09-15 23:30:57; Closed,1,26/09/2023 00:22,Martha Graham,Bears,MG2350,Michael Garcia,michael.garcia@coldmail.com,20/09/2019 03:35,basic

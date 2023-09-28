@@ -1,0 +1,4 @@
+model,claimed_brake_distance,claimed_top_speed,claimed_power,claimed_drag_coefficient,claimed_fuel_consumption,claimed_turning_radius
+Tether,35,129,195,0.4,49,10.9
+Lisk,36,123,189,0.38,50,11.1
+Dash,38,112,194,0.25,56,10.2

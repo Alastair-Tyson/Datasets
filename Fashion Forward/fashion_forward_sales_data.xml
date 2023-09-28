@@ -1,0 +1,4423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>11339</id>
+    <date>2023-07-01 20:40:00</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LD724</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11340</id>
+    <date>2021-04-17 09:00:23</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JW881</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11341</id>
+    <date>2022-01-04 19:26:47</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PL579</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11342</id>
+    <date>2021-11-17 19:11:03</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>PH201</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11343</id>
+    <date>2023-01-07 23:58:40</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>TC312</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11344</id>
+    <date>2023-01-23 04:12:51</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DF968</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11345</id>
+    <date>2023-06-05 18:24:33</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>EH359</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11346</id>
+    <date>2022-08-03 17:59:54</date>
+    <product_code>DD980</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CG504</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11347</id>
+    <date>2022-12-06 12:15:49</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>JP848</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11348</id>
+    <date>2022-02-28 05:23:24</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>EC526</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11349</id>
+    <date>2022-07-15 01:27:57</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CS612</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11350</id>
+    <date>2023-01-12 06:01:48</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LB814</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11351</id>
+    <date>2022-11-19 03:20:19</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>MM768</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11352</id>
+    <date>2022-08-06 01:15:17</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SH279</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11353</id>
+    <date>2021-06-24 04:47:03</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>AK303</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11354</id>
+    <date>2022-07-20 10:08:11</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PJ945</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11355</id>
+    <date>2021-08-26 04:08:09</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CB591</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11356</id>
+    <date>2023-01-28 05:12:49</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CB919</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11357</id>
+    <date>2021-01-11 03:23:39</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>CJ691</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11358</id>
+    <date>2021-01-04 12:34:16</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EG345</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11359</id>
+    <date>2022-07-01 23:41:42</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CJ890</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11360</id>
+    <date>2022-08-11 04:19:21</date>
+    <product_code>DK984</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MJ662</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11361</id>
+    <date>2023-01-27 23:02:30</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JJ242</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11362</id>
+    <date>2021-11-13 11:32:51</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EB286</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11363</id>
+    <date>2021-08-10 18:31:54</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>BE275</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11364</id>
+    <date>2021-06-05 07:44:49</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AW510</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11365</id>
+    <date>2023-08-03 05:59:22</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AS499</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11366</id>
+    <date>2022-08-06 00:05:07</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>NT986</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11367</id>
+    <date>2022-01-26 21:32:29</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JC337</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11368</id>
+    <date>2021-01-14 06:48:11</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>EJ443</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11369</id>
+    <date>2021-03-09 14:21:33</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AD780</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11370</id>
+    <date>2021-05-13 17:53:32</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TC559</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11371</id>
+    <date>2021-01-25 15:07:48</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>CB823</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11372</id>
+    <date>2021-05-26 07:50:40</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DH491</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11373</id>
+    <date>2022-08-15 14:41:43</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>CH163</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11374</id>
+    <date>2021-01-14 10:31:19</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>IB646</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11375</id>
+    <date>2021-02-28 08:50:56</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SM100</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11376</id>
+    <date>2021-09-14 18:45:51</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CS616</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11377</id>
+    <date>2023-06-06 23:36:41</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SR298</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11378</id>
+    <date>2022-05-16 16:07:59</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>VO214</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11379</id>
+    <date>2022-03-07 02:41:37</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>EL320</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11380</id>
+    <date>2021-12-15 14:02:50</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MR223</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11381</id>
+    <date>2022-08-14 10:40:14</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW680</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11382</id>
+    <date>2023-01-08 10:55:45</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MS340</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11383</id>
+    <date>2022-03-25 22:06:19</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>TR130</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11384</id>
+    <date>2021-04-15 05:06:33</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TJ753</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11385</id>
+    <date>2022-11-24 12:40:34</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>SW260</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11386</id>
+    <date>2022-11-08 08:16:46</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SB554</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11387</id>
+    <date>2023-06-18 17:27:34</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>MA785</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11388</id>
+    <date>2022-10-03 13:37:11</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>MR968</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11389</id>
+    <date>2022-01-30 03:42:40</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ER565</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11390</id>
+    <date>2021-03-30 14:18:09</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>MK352</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11391</id>
+    <date>2021-08-28 14:56:47</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MS152</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11392</id>
+    <date>2023-06-08 04:27:08</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>AS702</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11393</id>
+    <date>2021-05-21 16:31:34</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ET214</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11394</id>
+    <date>2023-08-28 19:52:14</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CF394</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11395</id>
+    <date>2021-10-16 09:22:25</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>TF462</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11396</id>
+    <date>2021-04-15 21:10:19</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CP708</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11397</id>
+    <date>2022-08-24 00:25:32</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CJ524</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11398</id>
+    <date>2023-05-09 21:07:00</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RH777</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11399</id>
+    <date>2021-12-01 10:13:00</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH570</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11400</id>
+    <date>2023-06-10 02:02:57</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW872</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11401</id>
+    <date>2022-01-05 08:14:38</date>
+    <product_code>DD980</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AB535</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11402</id>
+    <date>2021-07-13 12:17:51</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AW449</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11403</id>
+    <date>2023-07-03 03:34:21</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>LS599</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11404</id>
+    <date>2023-01-05 00:21:54</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JW103</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11405</id>
+    <date>2021-01-13 19:17:56</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JJ974</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11406</id>
+    <date>2021-01-27 17:15:48</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RE668</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11407</id>
+    <date>2021-08-04 22:37:14</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>LK293</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11408</id>
+    <date>2021-08-23 12:25:18</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DB187</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11409</id>
+    <date>2023-01-21 16:07:47</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RP896</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11410</id>
+    <date>2023-07-18 09:14:23</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TM823</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11411</id>
+    <date>2022-12-31 22:24:16</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BO517</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11412</id>
+    <date>2021-03-19 19:47:08</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RS804</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11413</id>
+    <date>2021-06-03 01:07:31</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MF592</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11414</id>
+    <date>2021-02-27 21:44:13</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SC242</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11415</id>
+    <date>2021-05-13 20:47:55</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>GJ689</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11416</id>
+    <date>2021-02-15 00:09:13</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>HH673</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11417</id>
+    <date>2021-11-17 13:27:55</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ME796</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11418</id>
+    <date>2023-02-19 22:57:22</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CB110</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11419</id>
+    <date>2023-02-21 08:36:26</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RC459</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11420</id>
+    <date>2022-07-27 05:48:55</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JC105</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11421</id>
+    <date>2022-06-28 07:32:50</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MB190</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11422</id>
+    <date>2023-08-11 03:26:49</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>HN546</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11423</id>
+    <date>2023-06-17 02:26:32</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LC857</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11424</id>
+    <date>2021-01-19 22:34:47</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SE335</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11425</id>
+    <date>2023-08-22 05:27:27</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AK722</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11426</id>
+    <date>2022-01-23 08:50:33</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KP445</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11427</id>
+    <date>2023-07-01 13:16:28</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>HH500</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11428</id>
+    <date>2021-08-19 11:09:33</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JB682</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11429</id>
+    <date>2021-09-27 20:48:56</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>JH710</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11430</id>
+    <date>2021-01-12 13:47:32</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MJ926</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11431</id>
+    <date>2022-09-12 13:00:58</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LJ583</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11432</id>
+    <date>2021-05-25 17:01:25</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JJ909</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11433</id>
+    <date>2022-10-19 16:43:27</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>BW540</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11434</id>
+    <date>2022-05-23 00:47:19</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>NW761</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11435</id>
+    <date>2022-08-28 03:03:12</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AB220</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11436</id>
+    <date>2022-05-22 02:37:59</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CM971</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11437</id>
+    <date>2021-01-09 21:38:18</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AS671</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11438</id>
+    <date>2022-12-19 16:46:26</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH499</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11439</id>
+    <date>2022-12-10 22:07:07</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LM256</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11440</id>
+    <date>2021-05-06 22:04:58</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>MN654</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11441</id>
+    <date>2021-10-25 10:44:38</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>ML737</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11442</id>
+    <date>2023-06-09 03:16:54</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CA834</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11443</id>
+    <date>2022-06-15 19:57:14</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RO450</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11444</id>
+    <date>2021-08-28 13:15:03</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BV559</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11445</id>
+    <date>2022-01-07 11:30:59</date>
+    <product_code>PD765</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JL782</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11446</id>
+    <date>2022-10-15 07:09:08</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>EM643</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11447</id>
+    <date>2022-01-01 06:01:38</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DT533</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11448</id>
+    <date>2022-10-15 17:30:17</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KW989</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11449</id>
+    <date>2021-11-18 03:40:51</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AW842</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11450</id>
+    <date>2022-01-04 05:08:25</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>RB592</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11451</id>
+    <date>2021-06-18 08:52:27</date>
+    <product_code>DK984</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CG133</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11452</id>
+    <date>2021-01-29 03:00:55</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DB598</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11453</id>
+    <date>2022-08-01 11:12:14</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MR278</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11454</id>
+    <date>2021-02-11 14:15:56</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>AF774</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11455</id>
+    <date>2022-07-21 11:10:23</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DL376</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11456</id>
+    <date>2021-04-18 05:27:24</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CF537</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11457</id>
+    <date>2022-11-08 22:09:34</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW601</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11458</id>
+    <date>2022-04-04 22:59:03</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>AM346</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11459</id>
+    <date>2021-04-10 05:09:30</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>LH916</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11460</id>
+    <date>2022-04-08 13:58:53</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>VW350</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11461</id>
+    <date>2021-03-13 05:02:55</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LB227</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11462</id>
+    <date>2021-01-19 01:17:13</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RW213</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11463</id>
+    <date>2022-03-29 13:04:22</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RR115</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11464</id>
+    <date>2023-01-04 20:16:12</date>
+    <product_code>DK984</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SK542</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11465</id>
+    <date>2023-03-06 12:02:53</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>MF509</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11466</id>
+    <date>2023-03-09 02:23:41</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CJ586</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11467</id>
+    <date>2021-04-09 15:03:38</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DW919</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11468</id>
+    <date>2021-08-31 10:27:37</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RM238</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11469</id>
+    <date>2022-05-06 13:38:59</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CS430</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11470</id>
+    <date>2021-05-13 15:01:40</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TT378</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11471</id>
+    <date>2021-05-09 17:10:13</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>CH627</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11472</id>
+    <date>2023-06-23 11:10:56</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>AH964</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11473</id>
+    <date>2021-07-01 13:38:44</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CE195</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11474</id>
+    <date>2023-07-14 07:18:37</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EK447</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11475</id>
+    <date>2023-01-13 09:31:03</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RM596</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11476</id>
+    <date>2022-03-05 19:58:20</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PB552</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11477</id>
+    <date>2022-07-12 14:34:49</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>NC530</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11478</id>
+    <date>2021-06-25 22:28:56</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>AM383</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11479</id>
+    <date>2022-08-21 08:31:55</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MH321</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11480</id>
+    <date>2021-04-21 06:47:31</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SL141</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11481</id>
+    <date>2023-01-02 12:49:51</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>WO856</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11482</id>
+    <date>2021-05-07 01:45:30</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>TB982</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11483</id>
+    <date>2021-03-19 21:20:59</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>AD347</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11484</id>
+    <date>2023-06-18 07:44:21</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ML896</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11485</id>
+    <date>2022-05-18 14:32:03</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JP747</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11486</id>
+    <date>2021-10-04 22:30:52</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SY843</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11487</id>
+    <date>2023-01-09 04:27:44</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>VB558</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11488</id>
+    <date>2022-11-15 15:38:00</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CS291</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11489</id>
+    <date>2021-03-24 17:11:46</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AB155</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11490</id>
+    <date>2022-11-30 12:28:49</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JL863</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11491</id>
+    <date>2023-03-25 14:40:49</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JR854</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11492</id>
+    <date>2021-06-15 18:44:25</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>CH516</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11493</id>
+    <date>2021-09-05 02:18:28</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM687</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11494</id>
+    <date>2022-01-30 08:44:36</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AJ485</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11495</id>
+    <date>2021-05-04 20:12:59</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>TN539</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11496</id>
+    <date>2023-03-14 06:15:20</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>JR290</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11497</id>
+    <date>2022-05-14 12:01:51</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RD266</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11498</id>
+    <date>2022-02-25 19:44:58</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TS470</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11499</id>
+    <date>2022-08-19 18:26:36</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>BC852</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11500</id>
+    <date>2021-01-18 14:02:36</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JB504</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11501</id>
+    <date>2023-06-27 03:49:28</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JD990</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11502</id>
+    <date>2021-01-06 09:21:06</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MH521</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11503</id>
+    <date>2023-06-19 16:48:29</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>MW598</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11504</id>
+    <date>2021-06-15 02:36:01</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CC193</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11505</id>
+    <date>2021-01-18 15:22:10</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MM369</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11506</id>
+    <date>2022-08-06 04:03:43</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RC110</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11507</id>
+    <date>2021-05-24 08:25:28</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>RB606</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11508</id>
+    <date>2023-06-12 13:08:06</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BH295</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11509</id>
+    <date>2022-10-13 06:02:53</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DS532</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11510</id>
+    <date>2021-07-13 03:00:32</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>WG847</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11511</id>
+    <date>2022-09-08 22:15:31</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SA156</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11512</id>
+    <date>2022-04-05 18:38:17</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CC203</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11513</id>
+    <date>2022-01-22 14:45:30</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>IO894</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11514</id>
+    <date>2021-07-23 06:58:47</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TH945</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11515</id>
+    <date>2023-02-22 22:01:18</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JV816</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11516</id>
+    <date>2022-04-10 09:16:13</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>GC225</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11517</id>
+    <date>2021-07-11 03:58:07</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>BL919</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11518</id>
+    <date>2022-06-17 04:48:52</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SM701</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11519</id>
+    <date>2021-05-20 12:08:53</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>FC180</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11520</id>
+    <date>2021-01-23 21:19:53</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>GG355</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11521</id>
+    <date>2023-04-22 12:22:45</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JP131</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11522</id>
+    <date>2022-12-04 12:05:29</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>JM803</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11523</id>
+    <date>2022-08-14 14:37:03</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>EW450</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11524</id>
+    <date>2021-02-04 03:40:37</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JK748</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11525</id>
+    <date>2022-01-10 02:13:27</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SW377</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11526</id>
+    <date>2023-01-17 16:25:57</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SM157</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11527</id>
+    <date>2021-10-25 22:56:13</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>HT719</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11528</id>
+    <date>2023-06-13 11:23:22</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>AB416</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11529</id>
+    <date>2022-12-20 09:15:17</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BB860</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11530</id>
+    <date>2022-08-29 12:24:19</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LJ257</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11531</id>
+    <date>2023-04-11 11:12:47</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AF196</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11532</id>
+    <date>2023-01-25 04:39:28</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>BM706</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11533</id>
+    <date>2021-05-01 13:40:01</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AV639</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11534</id>
+    <date>2022-08-11 16:36:31</date>
+    <product_code>SP405</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AR856</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11535</id>
+    <date>2021-09-15 20:55:34</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>CP967</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11536</id>
+    <date>2021-01-16 19:04:21</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MP788</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11537</id>
+    <date>2021-05-07 06:49:51</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>LR825</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11538</id>
+    <date>2022-01-02 01:02:20</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BF993</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11539</id>
+    <date>2023-01-05 19:44:13</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AL644</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11540</id>
+    <date>2022-02-15 23:45:19</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TM850</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11541</id>
+    <date>2021-06-22 16:28:04</date>
+    <product_code>PD765</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EJ935</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11542</id>
+    <date>2022-08-06 14:42:00</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BP143</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11543</id>
+    <date>2021-12-24 14:43:58</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MJ297</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11544</id>
+    <date>2021-12-07 07:02:13</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>SB459</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11545</id>
+    <date>2023-06-22 22:42:12</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KH117</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11546</id>
+    <date>2021-04-29 07:39:21</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LB548</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11547</id>
+    <date>2023-01-14 10:40:57</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CL525</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11548</id>
+    <date>2023-01-23 13:19:21</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>TS202</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11549</id>
+    <date>2023-06-30 20:44:28</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM968</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11550</id>
+    <date>2021-02-12 01:51:22</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>RL294</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11551</id>
+    <date>2023-06-04 20:26:24</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CL455</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11552</id>
+    <date>2021-11-26 01:50:11</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SM488</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11553</id>
+    <date>2023-01-23 06:27:42</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>MD625</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11554</id>
+    <date>2022-04-12 15:48:34</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM715</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11555</id>
+    <date>2022-02-22 16:49:44</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH746</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11556</id>
+    <date>2021-11-05 22:48:55</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SJ546</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11557</id>
+    <date>2022-01-08 07:18:36</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>ND291</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11558</id>
+    <date>2023-05-03 13:09:15</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>GM116</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11559</id>
+    <date>2022-09-30 05:33:35</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DW790</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11560</id>
+    <date>2023-06-07 02:35:42</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RC167</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11561</id>
+    <date>2021-12-20 07:23:31</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>AS402</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11562</id>
+    <date>2021-02-23 12:01:21</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MV730</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11563</id>
+    <date>2023-04-14 17:54:19</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CD290</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11564</id>
+    <date>2022-08-19 06:46:32</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TG894</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11565</id>
+    <date>2022-11-07 21:43:48</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AS271</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11566</id>
+    <date>2021-12-18 20:57:51</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ES480</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11567</id>
+    <date>2021-01-06 06:33:06</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SS790</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11568</id>
+    <date>2022-08-05 22:05:22</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BR453</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11569</id>
+    <date>2023-07-03 01:33:05</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>AH469</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11570</id>
+    <date>2021-01-01 06:04:27</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KW820</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11571</id>
+    <date>2021-01-19 06:48:03</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EJ408</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11572</id>
+    <date>2021-01-12 22:47:11</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JG698</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11573</id>
+    <date>2021-07-30 23:29:19</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>KP635</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11574</id>
+    <date>2023-02-05 02:27:02</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JA441</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11575</id>
+    <date>2023-01-09 19:58:09</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CD988</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11576</id>
+    <date>2023-07-23 04:11:07</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SC474</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11577</id>
+    <date>2022-09-28 07:15:31</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RH238</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11578</id>
+    <date>2023-06-05 10:19:15</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>SH661</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11579</id>
+    <date>2023-07-24 06:32:24</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PH736</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11580</id>
+    <date>2021-01-02 13:15:05</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>VD536</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11581</id>
+    <date>2022-07-18 10:54:56</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AG960</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11582</id>
+    <date>2022-08-31 05:57:31</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JM234</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11583</id>
+    <date>2022-11-11 20:00:11</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW247</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11584</id>
+    <date>2023-02-27 00:06:54</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MS317</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11585</id>
+    <date>2022-12-27 10:34:00</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JM530</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11586</id>
+    <date>2022-04-05 12:47:22</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SO250</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11587</id>
+    <date>2021-12-22 06:56:50</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>DY886</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11588</id>
+    <date>2022-08-01 08:29:35</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RD431</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11589</id>
+    <date>2021-10-09 12:28:46</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>DB858</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11590</id>
+    <date>2022-06-17 03:59:32</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>RN115</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11591</id>
+    <date>2023-05-12 03:43:36</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JG431</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11592</id>
+    <date>2022-07-16 17:01:59</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>WA421</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11593</id>
+    <date>2022-01-24 16:50:17</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PW183</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11594</id>
+    <date>2023-05-21 01:12:33</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>MH927</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11595</id>
+    <date>2021-01-12 20:25:36</date>
+    <product_code>DD980</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>SB690</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11596</id>
+    <date>2021-12-13 19:09:24</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MB199</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11597</id>
+    <date>2022-11-03 13:57:27</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SH668</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11598</id>
+    <date>2023-03-27 22:26:03</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>TB328</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11599</id>
+    <date>2022-09-13 05:03:04</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JK704</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11600</id>
+    <date>2022-09-26 13:19:59</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>FW558</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11601</id>
+    <date>2023-06-21 14:52:41</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LC287</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11602</id>
+    <date>2022-11-09 00:31:19</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DV372</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11603</id>
+    <date>2021-01-03 19:05:24</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH557</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11604</id>
+    <date>2023-08-20 15:10:18</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>EB210</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11605</id>
+    <date>2023-05-10 20:14:46</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TH672</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11606</id>
+    <date>2022-08-03 09:53:15</date>
+    <product_code>SP405</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>FW322</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11607</id>
+    <date>2021-01-01 05:02:11</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TR451</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11608</id>
+    <date>2022-08-18 09:38:25</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>IT465</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11609</id>
+    <date>2021-12-23 19:54:57</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>AJ370</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11610</id>
+    <date>2021-01-15 00:57:35</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MM133</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11611</id>
+    <date>2023-06-01 19:51:46</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>PR730</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11612</id>
+    <date>2023-06-01 16:35:21</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CW468</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11613</id>
+    <date>2022-09-28 09:30:37</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>LO472</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11614</id>
+    <date>2021-05-01 18:08:51</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>BR427</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11615</id>
+    <date>2022-03-06 23:52:31</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KE470</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11616</id>
+    <date>2023-01-07 21:45:09</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MR406</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11617</id>
+    <date>2021-11-27 12:18:25</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RB626</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11618</id>
+    <date>2021-03-17 03:01:59</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>NW827</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11619</id>
+    <date>2021-07-10 02:05:35</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>TT116</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11620</id>
+    <date>2023-01-20 03:16:19</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>RB996</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11621</id>
+    <date>2021-02-28 16:38:08</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CG583</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11622</id>
+    <date>2023-01-06 11:20:33</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AR328</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11623</id>
+    <date>2022-12-10 12:36:20</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>DW642</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11624</id>
+    <date>2022-05-11 11:27:59</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SS184</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11625</id>
+    <date>2023-04-08 21:24:49</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MF896</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11626</id>
+    <date>2022-08-17 22:44:11</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>WJ613</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11627</id>
+    <date>2021-01-15 09:15:08</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW560</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11628</id>
+    <date>2023-01-14 05:19:20</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SC704</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11629</id>
+    <date>2022-11-22 21:48:12</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>DC105</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11630</id>
+    <date>2022-03-06 18:27:23</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM871</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11631</id>
+    <date>2022-02-26 12:03:55</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LF426</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11632</id>
+    <date>2023-06-08 10:21:43</date>
+    <product_code>SP405</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>HM671</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11633</id>
+    <date>2023-08-20 00:20:55</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TM144</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11634</id>
+    <date>2023-01-14 05:00:15</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BH935</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11635</id>
+    <date>2023-01-15 16:22:34</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JB182</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11636</id>
+    <date>2022-10-01 06:08:50</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>AS609</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11637</id>
+    <date>2023-01-08 10:52:23</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>SW730</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11638</id>
+    <date>2023-01-04 14:17:53</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KW962</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11639</id>
+    <date>2021-01-09 21:11:39</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MH964</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11640</id>
+    <date>2022-08-28 12:43:51</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JC892</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11641</id>
+    <date>2021-06-14 06:03:22</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CD605</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11642</id>
+    <date>2023-01-08 11:23:36</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SD835</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11643</id>
+    <date>2023-03-10 02:04:16</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JD253</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11644</id>
+    <date>2021-09-21 17:05:57</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SG291</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11645</id>
+    <date>2022-08-23 07:28:41</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KS693</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11646</id>
+    <date>2022-09-15 02:30:46</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>SP685</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11647</id>
+    <date>2022-08-26 02:03:39</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SA670</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11648</id>
+    <date>2022-05-18 04:43:04</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>RS128</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11649</id>
+    <date>2021-07-14 04:23:53</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JW878</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11650</id>
+    <date>2021-07-15 09:56:26</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JJ109</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11651</id>
+    <date>2023-05-11 04:42:06</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RW627</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11652</id>
+    <date>2021-10-13 09:47:04</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MM124</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11653</id>
+    <date>2023-06-15 14:29:52</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>FG430</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11654</id>
+    <date>2022-08-02 04:40:47</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>DK873</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11655</id>
+    <date>2022-10-26 06:37:12</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>NH755</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11656</id>
+    <date>2021-04-06 21:17:37</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>DL728</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11657</id>
+    <date>2021-06-16 05:48:14</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JK891</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11658</id>
+    <date>2021-06-05 13:12:28</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CH603</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11659</id>
+    <date>2022-01-01 08:58:43</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MT704</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11660</id>
+    <date>2023-01-28 21:55:17</date>
+    <product_code>NH575</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>MJ700</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11661</id>
+    <date>2021-12-12 00:54:27</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>HH282</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11662</id>
+    <date>2022-11-20 05:45:41</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>RM672</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11663</id>
+    <date>2022-08-23 11:16:30</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>BM119</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11664</id>
+    <date>2023-04-29 05:12:15</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SW971</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11665</id>
+    <date>2021-07-28 09:22:38</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RM743</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11666</id>
+    <date>2023-05-23 17:38:21</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JL909</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11667</id>
+    <date>2022-07-30 17:43:02</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JH469</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11668</id>
+    <date>2022-07-23 08:19:31</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JL220</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11669</id>
+    <date>2022-11-02 19:01:35</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AC176</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11670</id>
+    <date>2023-04-20 16:16:03</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AC681</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11671</id>
+    <date>2022-08-02 01:28:59</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BB679</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11672</id>
+    <date>2023-01-04 08:56:06</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SK674</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11673</id>
+    <date>2021-03-27 03:06:00</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SJ796</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11674</id>
+    <date>2023-03-29 13:35:40</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BG862</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11675</id>
+    <date>2021-01-06 00:13:26</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JY532</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11676</id>
+    <date>2023-06-03 00:22:06</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JG699</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11677</id>
+    <date>2022-09-13 03:45:08</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KJ292</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11678</id>
+    <date>2021-11-10 16:57:31</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SR671</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11679</id>
+    <date>2023-06-29 12:17:08</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>JP575</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11680</id>
+    <date>2022-09-05 15:48:56</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MB287</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11681</id>
+    <date>2023-08-10 07:59:58</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>MH711</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11682</id>
+    <date>2021-09-27 04:43:37</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CB203</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11683</id>
+    <date>2022-07-31 04:40:56</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>NM838</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11684</id>
+    <date>2022-06-06 16:17:45</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SJ548</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11685</id>
+    <date>2021-08-23 23:44:33</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>JB806</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11686</id>
+    <date>2023-01-23 07:33:51</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JR164</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11687</id>
+    <date>2022-01-10 07:13:23</date>
+    <product_code>RS630</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BG110</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11688</id>
+    <date>2022-07-05 15:02:13</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AB774</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11689</id>
+    <date>2022-12-17 05:12:19</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AN454</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11690</id>
+    <date>2021-06-02 11:27:12</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JL516</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11691</id>
+    <date>2022-07-14 14:00:30</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>AJ856</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11692</id>
+    <date>2021-08-19 16:22:00</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>TR260</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11693</id>
+    <date>2022-01-12 23:40:17</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AS268</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11694</id>
+    <date>2023-04-14 05:14:45</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>LP391</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11695</id>
+    <date>2022-04-12 02:57:26</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JJ657</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11696</id>
+    <date>2021-01-08 14:06:22</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SC899</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11697</id>
+    <date>2021-10-29 23:53:11</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CJ793</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11698</id>
+    <date>2023-04-02 03:13:25</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DP145</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11699</id>
+    <date>2023-01-05 18:08:07</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MB978</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11700</id>
+    <date>2022-08-25 21:49:52</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SD166</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11701</id>
+    <date>2022-01-30 13:20:11</date>
+    <product_code>DK984</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>DH122</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11702</id>
+    <date>2021-02-10 03:45:31</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>MB269</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11703</id>
+    <date>2022-11-28 13:02:25</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MR212</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11704</id>
+    <date>2021-06-13 05:20:50</date>
+    <product_code>SP405</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM672</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11705</id>
+    <date>2022-03-18 13:28:46</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RR674</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11706</id>
+    <date>2023-04-02 07:43:30</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JB791</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11707</id>
+    <date>2021-12-29 10:29:08</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TF627</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11708</id>
+    <date>2023-01-01 02:52:50</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH934</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11709</id>
+    <date>2022-01-03 02:51:40</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>KG996</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11710</id>
+    <date>2022-02-02 12:21:09</date>
+    <product_code>AL495</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>SH381</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11711</id>
+    <date>2021-12-16 02:25:35</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>WM634</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11712</id>
+    <date>2022-08-16 16:41:41</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CS504</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11713</id>
+    <date>2023-06-19 23:31:47</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CN493</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11714</id>
+    <date>2023-01-27 01:00:27</date>
+    <product_code>RM246</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DK172</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11715</id>
+    <date>2023-03-11 06:08:41</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>JP824</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11716</id>
+    <date>2022-01-10 19:34:52</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>YM214</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11717</id>
+    <date>2021-03-25 08:35:50</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BR129</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11718</id>
+    <date>2021-12-21 19:19:21</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JM217</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11719</id>
+    <date>2022-02-13 20:27:10</date>
+    <product_code>DG813</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TB248</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11720</id>
+    <date>2023-01-07 05:17:07</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>RM851</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11721</id>
+    <date>2023-05-15 16:49:21</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>SF928</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11722</id>
+    <date>2021-07-01 16:19:44</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>AS894</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11723</id>
+    <date>2021-01-12 05:40:07</date>
+    <product_code>PS755</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>JW698</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11724</id>
+    <date>2021-01-20 15:27:22</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>BA472</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11725</id>
+    <date>2022-05-12 01:05:56</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TM983</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11726</id>
+    <date>2022-08-31 18:25:27</date>
+    <product_code>PD765</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>DV886</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11727</id>
+    <date>2021-09-13 10:07:46</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>HB745</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11728</id>
+    <date>2023-01-01 07:04:00</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>DN929</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11729</id>
+    <date>2023-06-06 16:31:42</date>
+    <product_code>GD124</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SB778</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11730</id>
+    <date>2021-07-29 00:42:08</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AW509</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11731</id>
+    <date>2021-01-29 10:01:01</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AM384</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11732</id>
+    <date>2021-08-22 17:49:46</date>
+    <product_code>BD603</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JT688</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11733</id>
+    <date>2023-01-26 08:33:56</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>DK644</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11734</id>
+    <date>2023-02-07 17:07:52</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SC729</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11735</id>
+    <date>2022-08-23 13:55:51</date>
+    <product_code>ML688</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CW874</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11736</id>
+    <date>2021-02-28 04:02:33</date>
+    <product_code>NH575</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DS730</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11737</id>
+    <date>2022-01-14 20:54:56</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>JK807</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11738</id>
+    <date>2022-06-07 16:21:10</date>
+    <product_code>DM420</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>TA462</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11739</id>
+    <date>2023-01-25 18:52:11</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JP336</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11740</id>
+    <date>2021-02-11 12:46:28</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DW634</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11741</id>
+    <date>2021-01-15 09:55:42</date>
+    <product_code>MD365</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH794</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11742</id>
+    <date>2021-07-02 12:19:38</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MH915</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11743</id>
+    <date>2022-05-01 19:09:21</date>
+    <product_code>DL822</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JB895</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11744</id>
+    <date>2022-10-07 05:57:57</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LG551</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11745</id>
+    <date>2023-07-03 23:12:55</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JM882</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11746</id>
+    <date>2021-01-27 06:04:54</date>
+    <product_code>PS755</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>KR869</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11747</id>
+    <date>2022-09-21 07:28:51</date>
+    <product_code>HI384</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>LO276</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11748</id>
+    <date>2021-01-13 05:15:00</date>
+    <product_code>HI384</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>TA712</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11749</id>
+    <date>2021-05-30 17:43:17</date>
+    <product_code>DP527</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>SC855</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11750</id>
+    <date>2021-04-27 04:09:33</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>MC896</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11751</id>
+    <date>2021-03-09 10:09:36</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>BM544</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11752</id>
+    <date>2021-05-31 13:49:19</date>
+    <product_code>DK984</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KB642</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11753</id>
+    <date>2022-07-25 18:16:32</date>
+    <product_code>RS630</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>CS438</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11754</id>
+    <date>2022-06-05 07:45:55</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JS534</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11755</id>
+    <date>2023-06-13 04:25:26</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>PP648</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11756</id>
+    <date>2023-06-19 00:45:39</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>KM973</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11757</id>
+    <date>2022-02-25 17:00:24</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>AM193</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11758</id>
+    <date>2023-05-21 08:45:03</date>
+    <product_code>ML688</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>JM887</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11759</id>
+    <date>2021-06-26 07:13:03</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>MR370</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11760</id>
+    <date>2023-06-08 05:03:48</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>SB477</deal_code>
+    <customer_code>JS443</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11761</id>
+    <date>2023-06-28 19:26:44</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SD778</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11762</id>
+    <date>2022-08-17 14:44:39</date>
+    <product_code>DL822</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>DE300</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11763</id>
+    <date>2021-07-05 01:22:27</date>
+    <product_code>SP405</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JJ205</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11764</id>
+    <date>2022-08-20 15:54:58</date>
+    <product_code>GD124</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>IP458</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11765</id>
+    <date>2022-03-21 19:35:10</date>
+    <product_code>MD365</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>ST577</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11766</id>
+    <date>2022-01-28 04:39:29</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>JB994</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11767</id>
+    <date>2023-01-11 09:33:25</date>
+    <product_code>DK984</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>DM225</deal_code>
+    <customer_code>AC596</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11768</id>
+    <date>2023-06-28 19:06:20</date>
+    <product_code>WM660</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CH652</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11769</id>
+    <date>2021-06-18 03:34:59</date>
+    <product_code>DD980</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>AC411</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11770</id>
+    <date>2022-08-10 16:10:36</date>
+    <product_code>DM420</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>SS341</customer_code>
+    <online>False</online>
+  </row>
+  <row>
+    <id>11771</id>
+    <date>2023-01-21 07:03:08</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KF715</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11772</id>
+    <date>2022-09-10 13:53:59</date>
+    <product_code>WM660</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>AP109</deal_code>
+    <customer_code>CW687</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11773</id>
+    <date>2021-06-29 00:35:07</date>
+    <product_code>DP527</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>LS105</deal_code>
+    <customer_code>CT366</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11774</id>
+    <date>2022-01-25 17:52:41</date>
+    <product_code>SL845</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>JB717</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11775</id>
+    <date>2023-01-15 04:37:20</date>
+    <product_code>AL495</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>KF324</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11776</id>
+    <date>2023-02-06 17:31:15</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>CC677</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11777</id>
+    <date>2022-08-01 13:40:40</date>
+    <product_code>DG813</product_code>
+    <sales_period>True</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>SM589</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11778</id>
+    <date>2023-02-05 20:05:46</date>
+    <product_code>SL845</product_code>
+    <sales_period>False</sales_period>
+    <deal>False</deal>
+    <deal_code>NA</deal_code>
+    <customer_code>JH220</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11779</id>
+    <date>2022-11-27 21:02:40</date>
+    <product_code>RM246</product_code>
+    <sales_period>False</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>KV394</customer_code>
+    <online>True</online>
+  </row>
+  <row>
+    <id>11780</id>
+    <date>2021-01-05 20:01:32</date>
+    <product_code>BD603</product_code>
+    <sales_period>True</sales_period>
+    <deal>True</deal>
+    <deal_code>BL401</deal_code>
+    <customer_code>MK813</customer_code>
+    <online>True</online>
+  </row>
+</data>
