@@ -1,0 +1,17 @@
+team_name,team,home_venue,games_played,wins,losses,no_results,runs_scored,runs_conceded,wickets_taken,toss_wins,most_common_toss_decision
+Manchester Originals,male,"Old Trafford, Manchester",27,13,12,2,3930,3548,164,11,field
+Manchester Originals,female,"Old Trafford, Manchester",19,7,12,0,2250,2392,101,11,field
+Oval Invincibles,male,"Kennington Oval, London",24,15,8,1,3580,3463,145,13,field
+Oval Invincibles,female,"Kennington Oval, London",23,15,8,0,2756,2694,124,13,field
+Birmingham Phoenix,male,"Edgbaston, Birmingham",24,13,10,1,3341,3197,153,13,field
+Birmingham Phoenix,female,"Edgbaston, Birmingham",22,7,15,0,2690,2781,146,10,field
+London Spirit,male,"Lord's, London",24,8,14,2,3148,3385,168,12,bat
+London Spirit,female,"Lord's, London",20,8,12,0,2411,2402,123,8,field
+Trent Rockets,male,"Trent Bridge, Nottingham",25,15,10,0,3643,3557,138,11,field
+Trent Rockets,female,"Trent Bridge, Nottingham",21,9,12,0,2607,2653,124,8,field
+Southern Brave,male,"The Rose Bowl, Southampton",27,14,11,2,3389,3637,143,17,field
+Southern Brave,female,"The Rose Bowl, Southampton",26,21,5,0,3270,3085,128,14,field
+Northern Superchargers,male,"Headingley, Leeds",23,9,13,1,3321,3348,148,10,field
+Northern Superchargers,female,"Headingley, Leeds",23,12,10,1,2800,2866,129,13,bat
+Welsh Fire,male,"Sophia Gardens, Cardiff",24,7,16,1,3124,3341,148,12,field
+Welsh Fire,female,"Sophia Gardens, Cardiff",22,8,13,1,2765,2676,134,11,field

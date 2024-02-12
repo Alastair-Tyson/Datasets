@@ -1,0 +1,741 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0909.1159                               -->
+<workbook original-version='18.1' source-build='2023.2.2 (20232.23.0909.1159)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Rolling Clicks+ (Pontoon Advert Metrics)' inline='true' name='federated.08bbiqq0raf0ix14swgqp1wknr00' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Pontoon Advert Metrics' name='excel-direct.1qp52s7138o8q81gy2yy104rc3tv'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/alastair.tyson/Documents/GitHub/Datasets/Tech sales/Data Analysis/Ads/Pontoon Advert Metrics.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Advert Daily Statistics' table='[&apos;Advert Daily Statistics$&apos;]' type='table'>
+          <columns gridOrigin='A1:G395:no:A1:G395:0' header='yes' outcome='6'>
+            <column datatype='date' name='Date' ordinal='0' />
+            <column datatype='string' name='Advert Code' ordinal='1' />
+            <column datatype='integer' name='Views' ordinal='2' />
+            <column datatype='integer' name='Likes' ordinal='3' />
+            <column datatype='integer' name='Comments' ordinal='4' />
+            <column datatype='integer' name='Shares' ordinal='5' />
+            <column datatype='integer' name='Clicks' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Rolling Clicks' table='[&apos;Rolling Clicks$&apos;]' type='table'>
+            <columns gridOrigin='A1:C517:no:A1:C517:0' header='yes' outcome='2'>
+              <column datatype='string' name='Advert Code' ordinal='0' />
+              <column datatype='date' name='Date' ordinal='1' />
+              <column datatype='integer' name='Value' ordinal='2' />
+            </columns>
+          </relation>
+          <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Adverts' table='[Adverts$]' type='table'>
+            <columns gridOrigin='A1:C9:no:A1:C9:0' header='yes' outcome='6'>
+              <column datatype='string' name='Advert Code' ordinal='0' />
+              <column datatype='string' name='Platform' ordinal='1' />
+              <column datatype='date' name='Launch Date' ordinal='2' />
+            </columns>
+          </relation>
+          <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Advert Daily Statistics' table='[&apos;Advert Daily Statistics$&apos;]' type='table'>
+            <columns gridOrigin='A1:G395:no:A1:G395:0' header='yes' outcome='6'>
+              <column datatype='date' name='Date' ordinal='0' />
+              <column datatype='string' name='Advert Code' ordinal='1' />
+              <column datatype='integer' name='Views' ordinal='2' />
+              <column datatype='integer' name='Likes' ordinal='3' />
+              <column datatype='integer' name='Comments' ordinal='4' />
+              <column datatype='integer' name='Shares' ordinal='5' />
+              <column datatype='integer' name='Clicks' ordinal='6' />
+            </columns>
+          </relation>
+          <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Targets' table='[Targets$]' type='table'>
+            <columns gridOrigin='A1:D4:no:A1:D4:0' header='yes' outcome='6'>
+              <column datatype='string' name='Platform' ordinal='0' />
+              <column datatype='integer' name='Week 2' ordinal='1' />
+              <column datatype='integer' name='Week 4' ordinal='2' />
+              <column datatype='integer' name='Week 6' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Advert Code (Advert Daily Statistics)]' value='[Advert Daily Statistics].[Advert Code]' />
+          <map key='[Advert Code (Adverts)]' value='[Adverts].[Advert Code]' />
+          <map key='[Advert Code]' value='[Rolling Clicks].[Advert Code]' />
+          <map key='[Clicks]' value='[Advert Daily Statistics].[Clicks]' />
+          <map key='[Comments]' value='[Advert Daily Statistics].[Comments]' />
+          <map key='[Date (Advert Daily Statistics)]' value='[Advert Daily Statistics].[Date]' />
+          <map key='[Date]' value='[Rolling Clicks].[Date]' />
+          <map key='[Launch Date]' value='[Adverts].[Launch Date]' />
+          <map key='[Likes]' value='[Advert Daily Statistics].[Likes]' />
+          <map key='[Platform (Targets)]' value='[Targets].[Platform]' />
+          <map key='[Platform]' value='[Adverts].[Platform]' />
+          <map key='[Shares]' value='[Advert Daily Statistics].[Shares]' />
+          <map key='[Value]' value='[Rolling Clicks].[Value]' />
+          <map key='[Views]' value='[Advert Daily Statistics].[Views]' />
+          <map key='[Week 2]' value='[Targets].[Week 2]' />
+          <map key='[Week 4]' value='[Targets].[Week 4]' />
+          <map key='[Week 6]' value='[Targets].[Week 6]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Rolling Clicks]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:C517:no:A1:C517:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Adverts]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:C9:no:A1:C9:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:G395:no:A1:G395:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Targets]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:D4:no:A1:D4:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Advert Code</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Advert Code]</local-name>
+            <parent-name>[Rolling Clicks]</parent-name>
+            <remote-alias>Advert Code</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Date]</local-name>
+            <parent-name>[Rolling Clicks]</parent-name>
+            <remote-alias>Date</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Value</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Value]</local-name>
+            <parent-name>[Rolling Clicks]</parent-name>
+            <remote-alias>Value</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Advert Code</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Advert Code (Adverts)]</local-name>
+            <parent-name>[Adverts]</parent-name>
+            <remote-alias>Advert Code</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Platform</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Platform]</local-name>
+            <parent-name>[Adverts]</parent-name>
+            <remote-alias>Platform</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Launch Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Launch Date]</local-name>
+            <parent-name>[Adverts]</parent-name>
+            <remote-alias>Launch Date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Date (Advert Daily Statistics)]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Date</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Advert Code</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Advert Code (Advert Daily Statistics)]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Advert Code</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Views</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Views]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Views</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Likes</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Likes]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Likes</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Comments</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Comments]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Comments</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Shares</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Shares]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Shares</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Clicks</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Clicks]</local-name>
+            <parent-name>[Advert Daily Statistics]</parent-name>
+            <remote-alias>Clicks</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Platform</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Platform (Targets)]</local-name>
+            <parent-name>[Targets]</parent-name>
+            <remote-alias>Platform</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Targets_FFDA23602C5941BB850E9876C219A458]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Week 2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Week 2]</local-name>
+            <parent-name>[Targets]</parent-name>
+            <remote-alias>Week 2</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Targets_FFDA23602C5941BB850E9876C219A458]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Week 4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Week 4]</local-name>
+            <parent-name>[Targets]</parent-name>
+            <remote-alias>Week 4</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Targets_FFDA23602C5941BB850E9876C219A458]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Week 6</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Week 6]</local-name>
+            <parent-name>[Targets]</parent-name>
+            <remote-alias>Week 6</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Targets_FFDA23602C5941BB850E9876C219A458]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Advert Code (Adverts)]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Week 2]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Week 4]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Week 6]' role='dimension' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Advert Daily Statistics' datatype='table' name='[__tableau_internal_object_id__].[Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Adverts' datatype='table' name='[__tableau_internal_object_id__].[Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Rolling Clicks' datatype='table' name='[__tableau_internal_object_id__].[Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='Targets' datatype='table' name='[__tableau_internal_object_id__].[Targets_FFDA23602C5941BB850E9876C219A458]' role='measure' type='quantitative' />
+      <column-instance column='[Advert Code (Adverts)]' derivation='None' name='[none:Advert Code (Adverts):nk]' pivot='key' type='nominal' />
+      <column-instance column='[Forecast Indicator]' derivation='None' forecast-column-base='[Forecast Indicator]' forecast-column-type='forecast-indicator' name='[none:Forecast Indicator:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Advert Code (Adverts):nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;FB01&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;IG02&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;IG01&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;X001&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;FB03&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;IG03&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;FB02&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;X002&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Forecast Indicator:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Actual&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Estimate&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;USA&quot;' />
+      </semantic-values>
+      <default-sorts>
+        <manual-sort column='[none:Forecast Indicator:nk]' direction='ASC'>
+          <dictionary>
+            <bucket>&quot;Actual&quot;</bucket>
+            <bucket>&quot;Estimate&quot;</bucket>
+          </dictionary>
+        </manual-sort>
+      </default-sorts>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Advert Daily Statistics' id='Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB'>
+            <properties context=''>
+              <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Advert Daily Statistics' table='[&apos;Advert Daily Statistics$&apos;]' type='table'>
+                <columns gridOrigin='A1:G395:no:A1:G395:0' header='yes' outcome='6'>
+                  <column datatype='date' name='Date' ordinal='0' />
+                  <column datatype='string' name='Advert Code' ordinal='1' />
+                  <column datatype='integer' name='Views' ordinal='2' />
+                  <column datatype='integer' name='Likes' ordinal='3' />
+                  <column datatype='integer' name='Comments' ordinal='4' />
+                  <column datatype='integer' name='Shares' ordinal='5' />
+                  <column datatype='integer' name='Clicks' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='Adverts' id='Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A'>
+            <properties context=''>
+              <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Adverts' table='[Adverts$]' type='table'>
+                <columns gridOrigin='A1:C9:no:A1:C9:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Advert Code' ordinal='0' />
+                  <column datatype='string' name='Platform' ordinal='1' />
+                  <column datatype='date' name='Launch Date' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='Rolling Clicks' id='Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D'>
+            <properties context=''>
+              <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Rolling Clicks' table='[&apos;Rolling Clicks$&apos;]' type='table'>
+                <columns gridOrigin='A1:C517:no:A1:C517:0' header='yes' outcome='2'>
+                  <column datatype='string' name='Advert Code' ordinal='0' />
+                  <column datatype='date' name='Date' ordinal='1' />
+                  <column datatype='integer' name='Value' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='Targets' id='Targets_FFDA23602C5941BB850E9876C219A458'>
+            <properties context=''>
+              <relation connection='excel-direct.1qp52s7138o8q81gy2yy104rc3tv' name='Targets' table='[Targets$]' type='table'>
+                <columns gridOrigin='A1:D4:no:A1:D4:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Platform' ordinal='0' />
+                  <column datatype='integer' name='Week 2' ordinal='1' />
+                  <column datatype='integer' name='Week 4' ordinal='2' />
+                  <column datatype='integer' name='Week 6' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[Advert Code (Adverts)]' />
+              <expression op='[Advert Code (Advert Daily Statistics)]' />
+            </expression>
+            <first-end-point object-id='Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A' />
+            <second-end-point object-id='Advert Daily Statistics_23F97179FFC540DB81F6B840642649AB' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Advert Code]' />
+              <expression op='[Advert Code (Adverts)]' />
+            </expression>
+            <first-end-point object-id='Rolling Clicks_20D91812665B414E9D3D01E8E54C6A0D' />
+            <second-end-point object-id='Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Platform]' />
+              <expression op='[Platform (Targets)]' />
+            </expression>
+            <first-end-point object-id='Adverts_EB6D5CBB5DF34B50A61B0BD82E9F231A' />
+            <second-end-point object-id='Targets_FFDA23602C5941BB850E9876C219A458' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Total Clicks Per Day'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Rolling Clicks+ (Pontoon Advert Metrics)' name='federated.08bbiqq0raf0ix14swgqp1wknr00' />
+          </datasources>
+          <datasource-dependencies datasource='federated.08bbiqq0raf0ix14swgqp1wknr00'>
+            <column datatype='integer' name='[Clicks]' role='measure' type='quantitative' />
+            <column datatype='date' name='[Date (Advert Daily Statistics)]' role='dimension' type='ordinal' />
+            <column-instance column='[Date (Advert Daily Statistics)]' derivation='Day' name='[dy:Date (Advert Daily Statistics):ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Clicks]' derivation='Sum' name='[sum:Clicks:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#ffe252' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.08bbiqq0raf0ix14swgqp1wknr00].[sum:Clicks:qk]</rows>
+        <cols>[federated.08bbiqq0raf0ix14swgqp1wknr00].[dy:Date (Advert Daily Statistics):ok]</cols>
+      </table>
+      <simple-id uuid='{AEA2135C-656E-47D2-A741-2B161E3736A4}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Total Clicks Per Day'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.08bbiqq0raf0ix14swgqp1wknr00].[none:Advert Code (Adverts):nk]</field>
+            <field>[federated.08bbiqq0raf0ix14swgqp1wknr00].[none:Platform:nk]</field>
+            <field>[federated.08bbiqq0raf0ix14swgqp1wknr00].[yr:Date (Advert Daily Statistics):ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{C7F58AB6-13F0-49E0-AA83-C24AE33558F9}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Total Clicks Per Day' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAAWtUlEQVR4nO3daXAc6X3f8W/PfeG+L4IgLpIgYe6u1rKklFwpSb5UTqJUHMuJEzspOamK
+      KxWXjyROJXFkyX6RN6lK7CrF8Yv40mVbLiuyVtJ6bdlrydpDC3BJgCQO4gYGc2Duo6en+8mL
+      xl7k4OIMCHD7/6li8cAz3c/M9K+fp59+nqamlFII4VCus66AEGdJAiCeeHoxQzJTeKTXSgDE
+      +ZLf5ZOf+jX+529+hu1k/h0/+upzX6v5kue/9g18gQCvf/sFPvvlP3/z3xdeeo5v3to6dHee
+      +mssRANVS/RfeS8f/+AYX3juG1zpcfPiy7f5yEc/ypf++I8oqwAqucDCVpqf/JmfZagNchUf
+      TT6N15d3cGsmRV3ns//nN9iJ7vD0h5v48vMbhPUt2nr7ef4vXuTS1HtxZ+4TSytpAcT55A+F
+      QZlULDfvmbrAdtHHe7/vffyDDz/LSizLs9Nj7MbTYOTB24RR2uO7L/0tr770EjfvLRDuneLH
+      f/RDhNsHSUfvE00X2Vq6zfVn/w6mnkUvm/yTT/yUBECcM24fy7Mv8r9+6/f50A/8ADsb91lY
+      j9EcCtDf5OJLL7zK5EAHtxc3iYT84O9A6XF2V5f5+M/+Mp/+5C+zF8tQ3J3nub+5SSQYYqjD
+      TUv/JO95z3uZ++63wRuio7efoM+N9riHQZVSyMiraKS52VcZvvoUEZ/7xK997AGwLAvTNHG5
+      pPERZ6/ui+CdjVVSeZ2x8XES22tkdZgcH2FrdZmi5WH8Uj97yRIRv0lBBWlvCqCUwu0+eVqF
+      aLQ6T8MVdmJZLvaGWVxYYjdr0R2ssLy6SrLspYU82+k8sZ0E8wurtIT9jam1EA1SXwCUC8so
+      cGdpk5aghjfSRFNLM6noLsGmZlpbImRyRTZX7uFt6sDt0hpUbSEao74uUFXH0Hz0tIUpWB5K
+      iXXu7FmMTl1l6c4CRZfJ6PQVtNEpPEaKeKaTrpZQg6ouRP3qvgg29DJlwyISDlE1yhimRijo
+      p6KXMZVGMOCjWrVwuzWqVQuv14NpmnINIM6Fxz4KBEgAxLkhY5HC0SQAwtEkAMLRJADC0SQA
+      wtEkAMLRJADC0SQAwtEkAMLRJADC0SQAwtEkAMLRJADC0epbD2BWuLe4TNU06eobxlXJktVh
+      ZHiA+PY6RdPL8FAX2bROKKAoVj20RAINqroQ9auvBXD7mLx8hWYfKKWztpsnbGVY29piK1XF
+      U4qxm8uzvRVnbv4ewaAsiRTnS92L4pVlkCgornVXiLe00d5pMXtrjZbhSbr8bpbTBTaX5hmY
+      msbn1jBNE8uy5NEo4lyoOwC7Gyt0D17EE/FSXrzHasFk+PIEayubrLh1+ibG0canoBgjXeii
+      dX9hvCyIEedB3SvCSsUSgVAQDSjmM5QMjY62Zgq5NLrlpr0lTLlcxe9zUdJNQkG/rAgT54Ys
+      iRSOJsOgwtEkAMLRJADC0SQAwtEkAMLRJADC0SQAwtEkAMLRJADC0SQAwtEkAMLRJADC0SQA
+      wtEkAMLRJADC0SQAwtHqDkClnGdhYQnDVGT3YmzsxAFIJ6Js7SYBk0K+hGWUyRXK9e5OiIaq
+      c02wxfz8IlPXp7D0HPfW4vRFTDZ3FdHdDB2eIomIh/h6GqOcYGL66cbUWogGqfP/Cc4TT2SZ
+      n7tFJOAj2NZDT6fF7K0VWoYn6fdnWN7Ls7k4x8C1aQIeeSqEOF/qC4AnTFtbhPFLwyxv7KKn
+      EuwaJgOjl9iJxtjxFum+MII2PoWR2SGv9xHx22uBZU2wOA/qXhSvF7Ks76YYG7lALhUno2sM
+      9nWRSUQpmF76e1op5isEg27yxSrNTSFZFC/ODXkqhHA0GQYVjiYBEI4mARCOJgEQjiYBEI4m
+      ARCOJgEQjiYBEI4mARCOJgEQjiYBEI4mARCOJgEQjiYBEI4mARCOJgEQjlZ3ADJ7CTY3NylV
+      qhTzGZKpLACFXJq9TA6wKJcrWKZBqWzUuzshGqru/yl+ZW2dS6NjeNCZvbtCa8Ciqi6ytrpF
+      k6uMNjlJdCWFMpJcuDzdiDoL0TB1ByDoc7N6f5GOthaCnf1c7LSYvbVI6/Akw/4My4kcm4tz
+      DF6bJuL3yFMhxLlS35pgyyCVLeMnz8p2Br3qYqC5StnXyl6qTJc3j7fvAnvrafRSnMvf8wwB
+      r0vWBIvHSykwViH7BdCC4B0ATx94+upsATQ3eiFFomxx+fIkqdg22QqM9PcTZIOi1cVAU4TA
+      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
+      RK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -1,119 +1,119 @@
 package,date,value,name,business_account,NPS,contact,name,team
-pro,10/07/2023,245,Joshua Morales,FALSE,7,"joshua.morales@gsnail.com, 968-218-082-1183",David Franco,MintCream
-pro,26/08/2023,227,Christina Wright,FALSE,2,"christina.wright@gsnail.com, 267-168-850-1718",Christopher Reid,MintCream
-basic,01/07/2023,139,Brian Hernandez,FALSE,9,"brian.hernandez@aobell.com, 969-443-507-4104",Thomas Nielsen,SaddleBrown
-basic,30/07/2023,142,Cynthia Lang,FALSE,9,"cynthia.lang@gsnail.com, 224-222-206-1466",Jill Perez,Light Green
-pro,07/08/2023,246,,,7,,,
-pro,13/06/2023,240,Donald Phillips,FALSE,6,"donald.phillips@coldmail.com, 466-167-354-6997",April Thompson,SaddleBrown
-pro,12/09/2023,225,Veronica Fitzpatrick,FALSE,4,"veronica.fitzpatrick@coldmail.com, 949-191-061-0528",Kari Fowler,MintCream
-basic,01/07/2023,$141,Antonio Bennett,FALSE,7,"antonio.bennett@coldmail.com, 408-878-090-2863",Kari Fowler,MintCream
-enterprise,19/06/2023,$306,Connie Mcguire,TRUE,9,"connie.mcguire@harris_group.org, 075-351-224-7567",Sarah Camacho,SaddleBrown
-basic,20/07/2023,136,Matthew Cook,FALSE,8,"matthew.cook@gsnail.com, 130-005-918-2583",April Thompson,SaddleBrown
-basic,05/09/2023,146,Paul Ellis,FALSE,8,"paul.ellis@coldmail.com, 421-094-557-0545",Sarah Camacho,SaddleBrown
-enterprise,04/07/2023,305,John Nelson,TRUE,9,"john.nelson@bullock_plc.org, 345-546-561-7759",April Thompson,SaddleBrown
-enterprise,08/09/2023,306,Laura Pierce,TRUE,7,"laura.pierce@roberts_sons.com, 414-606-985-4615",Mark Maldonado,LightGreen
-basic,17/09/2023,150,Craig Pennington,FALSE,7,"craig.pennington@aobell.com, 611-066-494-0130",Thomas Nielsen,SaddleBrown
-enterprise,23/08/2023,4376,Julia Richards,TRUE,7,"julia.richards@smith_chan_moore.com, 785-190-018-4163",Kari Fowler,MintCream
-enterprise,07/07/2023,373,Erica Miller,TRUE,8,"erica.miller@hoover_sons.com, 765-200-714-5615",April Thompson,SaddleBrown
-basic,18/08/2023,135,Morgan Grant,FALSE,7,"morgan.grant@gsnail.com, 552-268-753-4537",Nancy Huerta,LightGreen
-basic,27/06/2023,139,Beth Lozano,FALSE,9,"beth.lozano@coldmail.com, 227-083-740-2054",Kari Fowler,MintCream
-basic,04/08/2023,145,Deborah Ramirez,FALSE,8,"deborah.ramirez@coldmail.com, 878-101-098-8902",Sarah Camacho,SaddleBrown
-basic,03/09/2023,130,Heather Mccann,FALSE,9,"heather.mccann@gsnail.com, 418-274-154-9655",Allison Mcclure,LightGreen
-pro,10/09/2023,220,,,10,,,
-basic,18/09/2023,145,Chelsea Rodriguez,FALSE,7,"chelsea.rodriguez@gsnail.com, 423-670-523-7090",David Franco,MintCream
-basic,16/06/2023,148,Morgan Silva,FALSE,4,"morgan.silva@coldmail.com, 970-596-023-8811",Jill Perez,LightGreen
-basic,25/06/2023,141,Robert Garza,FALSE,1,"robert.garza@gsnail.com, 001-468-864-2062",Sarah Rowe,MediumBlue
-basic,02/07/2023,141,Franklin Jones,FALSE,7,"franklin.jones@coldmail.com, 656-439-675-9180",Brittany Parker,MintCream
-pro,22/08/2023,240,Mary Lewis,FALSE,8,"mary.lewis@aobell.com, 090-398-186-9814",Allison Mcclure,LightGreen
-pro,30/08/2023,220,Shawn Perez,FALSE,8,"shawn.perez@aobell.com, 432-977-374-4960",Kari Fowler,MintCream
-enterprise,19/08/2023,313,Nathan Elliott,TRUE,-2,"nathan.elliott@elliott_gibson.org, 274-183-272-3914",Jill Perez,LightGreen
-basic,23/09/2023,139,Caroline Duffy,FALSE,8,"caroline.duffy@coldmail.com, 392-732-143-3029",Sarah Rowe,MediumBlue
-basic,28/09/2023,146,Jacob Tanner,FALSE,6,"jacob.tanner@coldmail.com, 301-145-180-5100",David Franco,MintCream
-enterprise,02/09/2023,357,Jennifer Richard,TRUE,8,"jennifer.richard@perez_merritt_carter.io, 954-681-295-4410",April Thompson,SaddleBrown
-basic,08/09/2023,146,Sandra Weaver,FALSE,15,"sandra.weaver@coldmail.com, 971-759-145-5456",David Franco,MintCream
-pro,16/08/2023,230,Cheryl Swanson,FALSE,7,"cheryl.swanson@coldmail.com, 326-579-010-2906",Amber Coffey,MediumBlue
-enterprise,14/09/2023,$311,Jennifer Rogers,TRUE,9,"jennifer.rogers@maddox_holl_russell.com, 815-303-732-0929",Debbie Villanueva,MintCream
-enterprise,14/08/2023,309,Joseph Ortega,TRUE,8,"joseph.ortega@arnold_holloway_ward.org, 875-973-403-5712",Christopher Reid,MintCream
-enterprise,18/08/2023,305,Nicole Marshall,TRUE,7,"nicole.marshall@paul_johns_gilbert.org, 598-932-680-2964",Mark Maldonado,LightGreen
-pro,30/07/2023,229,Jeffrey Jenkins,FALSE,9,"jeffrey.jenkins@gsnail.com, 030-899-751-6781",Debbie Villanueva,MintCream
-pro,20/07/2023,227,Zachary Mills,FALSE,11,"zachary.mills@aobell.com, 112-317-668-0703",Christopher Reid,MintCream
-basic,22/08/2023,$141,Bryan Phelps,FALSE,7,"bryan.phelps@gsnail.com, 688-774-769-5299",Nancy Huerta,LightGreen
-enterprise,04/08/2023,326,Dennis Silva,TRUE,8,"dennis.silva@miller_leach_jensen.org, 146-021-731-0602",Thomas Nielsen,SaddleBrown
-basic,02/08/2023,$135,Janice Gallegos,FALSE,2,"janice.gallegos@aobell.com, 305-909-201-8117",April Thompson,SaddleBrown
-pro,26/07/2023,$225,Matthew Ramos,FALSE,6,"matthew.ramos@gsnail.com, 918-471-761-8597",Thomas Nielsen,SaddleBrown
-enterprise,27/09/2023,$357,Bradley Walker,TRUE,9,"bradley.walker@clark_plc.com, 917-374-296-2266",Allison Mcclure,LightGreen
-pro,13/07/2023,238,Alex White,FALSE,8,"alex.white@aobell.com, 444-226-587-0670",Mark Maldonado,LightGreen
-basic,16/06/2023,130,Joshua Lee,FALSE,6,"joshua.lee@gsnail.com, 714-355-992-8265",April Thompson,SaddleBrown
-pro,18/09/2023,231,Alexa Jones,FALSE,7,"alexa.jones@aobell.com, 033-586-293-4790",Nancy Huerta,Light Green
-basic,22/09/2023,148,Rebecca Cruz,FALSE,8,"rebecca.cruz@gsnail.com, 142-775-482-2381",Debbie Villanueva,MintCream
-enterprise,27/09/2023,,Desiree Levine,TRUE,,"desiree.levine@thompson_browning_lawson.org, 317-567-199-9059",Christopher Reid,MintCream
-enterprise,16/08/2023,332,William Jackson,TRUE,8,"william.jackson@werner_green.org, 277-231-177-9424",Kari Fowler,MintCream
-basic,03/07/2023,138,Timothy Chang,FALSE,7,"timothy.chang@coldmail.com, 554-944-607-4004",Amber Coffey,MediumBlue
-enterprise,27/09/2023,346,Jonathan Padilla,TRUE,8,"jonathan.padilla@porter_bell.org, 063-905-339-0518",Allison Mcclure,LightGreen
-basic,25/08/2023,136,Jane Trevino,FALSE,7,"jane.trevino@aobell.com, 715-995-997-0716",Nancy Huerta,LightGreen
-pro,14/08/2023,232,Andrew Miller,FALSE,8,"andrew.miller@coldmail.com, 866-837-507-3151",April Thompson,SaddleBrown
-enterprise,07/06/2023,$336,Jeffrey Taylor,TRUE,8,"jeffrey.taylor@salazar_dominguez.com, 544-360-923-9887",Mark Maldonado,LightGreen
-basic,10/07/2023,144,Caitlin Wright,FALSE,7,"caitlin.wright@coldmail.com, 245-663-549-9943",Nancy Huerta,LightGreen
-pro,03/09/2023,247,Richard Castro,FALSE,8,"richard.castro@aobell.com, 941-247-135-0939",Debbie Villanueva,MintCream
-enterprise,01/09/2023,393,Latasha Moore,TRUE,2,"latasha.moore@smith_ltd.org, 511-072-814-5576",David Franco,MintCream
-enterprise,19/08/2023,$377,Daniel Payne,TRUE,8,"daniel.payne@campbell_llc.io, 941-734-503-6850",Jill Perez,LightGreen
-enterprise,01/09/2023,,Kimberly Solomon,TRUE,,"kimberly.solomon@thomas_howard.com, 951-352-945-7014",April Thompson,SaddleBrown
-pro,05/06/2023,$245,Dennis Perry,FALSE,9,"dennis.perry@coldmail.com, 011-669-775-8317",Jill Perez,LightGreen
-enterprise,10/09/2023,,Angela Snow,TRUE,,"angela.snow@foster_smith_conley.io, 692-864-246-8450",Debbie Villanueva,MintCream
-enterprise,11/09/2023,$333,Curtis Marsh,TRUE,8,"curtis.marsh@harris_henderson.org, 050-259-959-8673",Sarah Rowe,MediumBlue
-enterprise,09/07/2023,4191,Nathan Garcia,TRUE,9,"nathan.garcia@dunlap_brooks_moran.org, 664-589-781-7723",Brittany Parker,MintCream
-pro,21/09/2023,237,Isaac Mcclure,FALSE,10,"isaac.mcclure@coldmail.com, 869-083-204-3180",Sarah Camacho,SaddleBrown
-pro,12/07/2023,226,Jamie Hale,FALSE,7,"jamie.hale@gsnail.com, 128-457-005-3610",Kari Fowler,MintCream
-pro,17/09/2023,$240,David Foster,FALSE,4,"david.foster@aobell.com, 071-217-984-2158",Zachary Heath,MediumBlue
-basic,07/08/2023,131,John Robinson,FALSE,10,"john.robinson@aobell.com, 855-660-190-7450",Jill Perez,LightGreen
-pro,14/08/2023,240,,,8,,,
-pro,02/08/2023,231,Todd Giles,FALSE,3,"todd.giles@aobell.com, 228-696-359-6850",Christopher Reid,MintCream
-pro,24/07/2023,231,Anna Mathews,FALSE,7,"anna.mathews@coldmail.com, 301-737-523-0172",Christopher Reid,MintCream
-enterprise,27/07/2023,309,Jennifer Walker,TRUE,7,"jennifer.walker@smith_jordan.org, 998-630-079-9709",Sarah Camacho,SaddleBrown
-pro,01/06/2023,234,Beverly Massey,FALSE,8,"beverly.massey@gsnail.com, 522-975-475-1634",Sarah Rowe,Medium Blue
-basic,07/07/2023,$135,Lance Carlson,FALSE,3,"lance.carlson@gsnail.com, 015-764-905-4012",Thomas Nielsen,SaddleBrown
-basic,10/07/2023,143,Sandra Brown,FALSE,5,"sandra.brown@aobell.com, 006-813-982-0544",Thomas Nielsen,SaddleBrown
-pro,09/07/2023,243,James Donaldson,FALSE,5,"james.donaldson@aobell.com, 471-197-527-3668",Kari Fowler,MintCream
-pro,06/08/2023,232,Gabrielle Morrow,FALSE,7,"gabrielle.morrow@aobell.com, 834-208-183-3208",Thomas Nielsen,SaddleBrown
-pro,18/07/2023,250,Dakota Dunn,FALSE,5,"dakota.dunn@coldmail.com, 296-663-206-5570",Mark Maldonado,LightGreen
-basic,24/07/2023,132,Kelly Rojas,FALSE,7,"kelly.rojas@gsnail.com, 899-980-242-0684",Amber Coffey,MediumBlue
-enterprise,10/07/2023,$341,Debra Cunningham,TRUE,10,"debra.cunningham@price_inc.com, 827-910-148-1294",Kari Fowler,MintCream
-pro,07/07/2023,230,Sarah Evans,FALSE,8,"sarah.evans@gsnail.com, 910-728-247-6779",Brittany Parker,MintCream
-enterprise,10/08/2023,$370,Adam Watson,TRUE,7,"adam.watson@rowl_schmidt.org, 210-027-840-5777",Sarah Rowe,MediumBlue
-enterprise,12/09/2023,$310,Nancy Warren,TRUE,9,"nancy.warren@richards_inc.com, 064-487-938-4167",Kari Fowler,MintCream
-pro,14/07/2023,227,Regina Berry,FALSE,8,"regina.berry@coldmail.com, 727-504-415-0876",Allison Mcclure,LightGreen
-pro,11/09/2023,226,Melissa Williams,FALSE,2,"melissa.williams@gsnail.com, 193-910-256-5959",Nancy Huerta,LightGreen
-enterprise,14/07/2023,333,Gary Nguyen,TRUE,10,"gary.nguyen@cortez_plc.io, 451-097-019-0507",Sarah Camacho,SaddleBrown
-basic,15/08/2023,$149,Patrick Walton,FALSE,8,"patrick.walton@aobell.com, 084-954-010-3697",Kari Fowler,MintCream
-pro,29/08/2023,,Kristen Walker,FALSE,,"kristen.walker@gsnail.com, 252-944-041-2164",Nancy Huerta,LightGreen
-pro,04/09/2023,232,Robert Bell,FALSE,10,"robert.bell@coldmail.com, 889-410-460-3648",Sarah Camacho,SaddleBrown
-enterprise,27/09/2023,346,Larry Allen,TRUE,8,"larry.allen@brooks_novak_smith.com, 992-179-756-8014",Sarah Rowe,MediumBlue
-enterprise,05/07/2023,381,Alex Bennett,TRUE,7,"alex.bennett@hall_durham.io, 016-715-885-3265",Amber Coffey,MediumBlue
-pro,15/08/2023,236,Rhonda Williams,FALSE,9,"rhonda.williams@aobell.com, 540-371-986-5318",Brittany Parker,MintCream
-pro,20/07/2023,$234,Michelle Espinoza,FALSE,9,"michelle.espinoza@coldmail.com, 568-440-530-2710",Brittany Parker,MintCream
-enterprise,30/09/2023,309,Tiffany Anderson,TRUE,7,"tiffany.anderson@roberson_llc.io, 283-074-007-3329",David Franco,MintCream
-pro,28/09/2023,233,Caitlin Campbell,FALSE,8,"caitlin.campbell@coldmail.com, 821-635-531-9723",Kari Fowler,MintCream
-pro,26/06/2023,244,Kevin Guzman,FALSE,7,"kevin.guzman@gsnail.com, 627-513-233-1618",Sarah Rowe,MediumBlue
-basic,28/08/2023,136,Thomas Gomez,FALSE,7,"thomas.gomez@gsnail.com, 209-905-764-9381",Mark Maldonado,LightGreen
-basic,04/09/2023,141,Nicholas Bryant,FALSE,7,"nicholas.bryant@gsnail.com, 440-491-093-0559",Sarah Rowe,MediumBlue
-basic,30/08/2023,141,Danny Daniel,FALSE,3,"danny.daniel@aobell.com, 480-590-381-0989",Mark Maldonado,LightGreen
-pro,23/07/2023,$237,Brandi Lee,FALSE,5,"brandi.lee@coldmail.com, 271-202-908-9802",Brittany Parker,MintCream
-pro,30/07/2023,$233,Mario Mcgee,FALSE,7,"mario.mcgee@aobell.com, 881-633-854-5620",Allison Mcclure,LightGreen
-enterprise,08/09/2023,363,Ashley Heath,TRUE,8,"ashley.heath@villa_guerra.org, 627-728-939-1797",Sarah Rowe,MediumBlue
-enterprise,07/08/2023,369,Megan Richard,TRUE,8,"megan.richard@wilson_torres_robinson.com, 808-549-901-1781",Thomas Nielsen,SaddleBrown
-basic,03/06/2023,$131,Joshua Nelson,FALSE,5,"joshua.nelson@gsnail.com, 950-413-332-7013",Christopher Reid,MintCream
-basic,02/07/2023,137,Pamela Carr,FALSE,8,"pamela.carr@coldmail.com, 509-183-799-4039",Nancy Huerta,LightGreen
-pro,09/07/2023,200,,,9,,,
-enterprise,27/06/2023,309,Tanya Brown,TRUE,8,"tanya.brown@hodge_group.io, 479-111-470-1952",Thomas Nielsen,SaddleBrown
-basic,05/09/2023,141,Jason Johnson,FALSE,8,"jason.johnson@gsnail.com, 406-315-327-0800",David Franco,MintCream
-basic,11/07/2023,145,James Smith,FALSE,8,"james.smith@gsnail.com, 523-458-707-3194",April Thompson,SaddleBrown
-pro,16/09/2023,$232,Michelle Herrera,FALSE,4,"michelle.herrera@aobell.com, 481-548-520-8150",April Thompson,SaddleBrown
-basic,26/08/2023,135,Vincent Simon,FALSE,14,"vincent.simon@gsnail.com, 688-678-535-9285",Kari Fowler,MintCream
-basic,18/08/2023,148,Megan Valdez,FALSE,10,"megan.valdez@coldmail.com, 941-210-070-6650",Allison Mcclure,LightGreen
-pro,30/08/2023,230,Robert Wheeler,FALSE,9,"robert.wheeler@coldmail.com, 400-477-311-1760",Allison Mcclure,LightGreen
-enterprise,15/09/2023,330,Sydney Bailey,TRUE,9,"sydney.bailey@barron_holden.io, 343-519-453-6252",Mark Maldonado,LightGreen
-enterprise,08/09/2023,306,Laura Pierce,TRUE,7,"laura.pierce@roberts_sons.com, 414-606-985-4615",Mark Maldonado,LightGreen
-enterprise,07/07/2023,373,Erica Miller,TRUE,8,"erica.miller@hoover_sons.com, 765-200-714-5615",April Thompson,SaddleBrown
-enterprise,02/09/2023,357,Jennifer Richard,TRUE,8,"jennifer.richard@perez_merritt_carter.io, 954-681-295-4410",April Thompson,SaddleBrown
-enterprise,10/09/2023,,Angela Snow,TRUE,,"angela.snow@foster_smith_conley.io, 692-864-246-8450",Debbie Villanueva,MintCream
-basic,07/07/2023,$135,Lance Carlson,FALSE,3,"lance.carlson@gsnail.com, 015-764-905-4012",Thomas Nielsen,SaddleBrown
+pro,10/7/2023,245,Joshua Morales,FALSE,7,"joshua.morales@gsnail.com, 968-218-082-1183",David Franco,MintCream
+pro,26/8/2023,227,Christina Wright,FALSE,2,"christina.wright@gsnail.com, 267-168-850-1718",Christopher Reid,MintCream
+basic,1/7/2023,139,Brian Hernandez,FALSE,9,"brian.hernandez@aobell.com, 969-443-507-4104",Thomas Nielsen,SaddleBrown
+basic,25/7/2023,142,Cynthia Lang,FALSE,9,"cynthia.lang@gsnail.com, 224-222-206-1466",Jill Perez,Light Green
+pro,18/7/2023,246,Cynthia Lang,,7,,,
+pro,13/6/2023,240,Donald Phillips,FALSE,6,"donald.phillips@coldmail.com, 466-167-354-6997",April Thompson,SaddleBrown
+pro,12/9/2023,225,Veronica Fitzpatrick,FALSE,4,"veronica.fitzpatrick@coldmail.com, 949-191-061-0528",Kari Fowler,MintCream
+basic,1/7/2023,$141 ,Antonio Bennett,FALSE,7,"antonio.bennett@coldmail.com, 408-878-090-2863",Kari Fowler,MintCream
+enterprise,19/6/2023,$306 ,Connie Mcguire,TRUE,9,"connie.mcguire@harris_group.org, 075-351-224-7567",Sarah Camacho,SaddleBrown
+basic,20/7/2023,136,Matthew Cook,FALSE,8,"matthew.cook@gsnail.com, 130-005-918-2583",April Thompson,SaddleBrown
+basic,15/7/2023,146,Paul Ellis,FALSE,8,"paul.ellis@coldmail.com, 421-094-557-0545",Sarah Camacho,SaddleBrown
+enterprise,4/7/2023,305,John Nelson,TRUE,9,"john.nelson@bullock_plc.org, 345-546-561-7759",April Thompson,SaddleBrown
+enterprise,8/19/2023,306,Laura Pierce,TRUE,7,"laura.pierce@roberts_sons.com, 414-606-985-4615",Mark Maldonado,LightGreen
+basic,17/9/2023,150,Craig Pennington,FALSE,7,"craig.pennington@aobell.com, 611-066-494-0130",Thomas Nielsen,SaddleBrown
+enterprise,23/8/2023,4376,Julia Richards,TRUE,7,"julia.richards@smith_chan_moore.com, 785-190-018-4163",Kari Fowler,MintCream
+enterprise,7/17/2023,373,Erica Miller,TRUE,8,"erica.miller@hoover_sons.com, 765-200-714-5615",April Thompson,SaddleBrown
+basic,18/8/2023,135,Morgan Grant,FALSE,7,"morgan.grant@gsnail.com, 552-268-753-4537",Nancy Huerta,LightGreen
+basic,27/6/2023,139,Beth Lozano,FALSE,9,"beth.lozano@coldmail.com, 227-083-740-2054",Kari Fowler,MintCream
+basic,4/8/2023,145,Deborah Ramirez,FALSE,8,"deborah.ramirez@coldmail.com, 878-101-098-8902",Sarah Camacho,SaddleBrown
+basic,3/9/2023,130,Heather Mccann,FALSE,9,"heather.mccann@gsnail.com, 418-274-154-9655",Allison Mcclure,LightGreen
+pro,10/9/2023,220,Heather Mccann,,10,,,
+basic,18/9/2023,145,Chelsea Rodriguez,FALSE,7,"chelsea.rodriguez@gsnail.com, 423-670-523-7090",David Franco,MintCream
+basic,16/6/2023,148,Morgan Silva,FALSE,4,"morgan.silva@coldmail.com, 970-596-023-8811",Jill Perez,LightGreen
+basic,25/6/2023,141,Robert Garza,FALSE,1,"robert.garza@gsnail.com, 001-468-864-2062",Sarah Rowe,MediumBlue
+basic,2/7/2023,141,Franklin Jones,FALSE,7,"franklin.jones@coldmail.com, 656-439-675-9180",Brittany Parker,MintCream
+pro,22/8/2023,240,Mary Lewis,FALSE,8,"mary.lewis@aobell.com, 090-398-186-9814",Allison Mcclure,LightGreen
+pro,30/8/2023,220,Shawn Perez,FALSE,8,"shawn.perez@aobell.com, 432-977-374-4960",Kari Fowler,MintCream
+enterprise,19/8/2023,313,Nathan Elliott,TRUE,-2,"nathan.elliott@elliott_gibson.org, 274-183-272-3914",Jill Perez,LightGreen
+basic,23/9/2023,139,Caroline Duffy,FALSE,8,"caroline.duffy@coldmail.com, 392-732-143-3029",Sarah Rowe,MediumBlue
+basic,28/9/2023,146,Jacob Tanner,FALSE,6,"jacob.tanner@coldmail.com, 301-145-180-5100",David Franco,MintCream
+enterprise,2/9/2023,357,Jennifer Richard,TRUE,8,"jennifer.richard@perez_merritt_carter.io, 954-681-295-4410",April Thompson,SaddleBrown
+basic,8/29/2023,146,Sandra Weaver,FALSE,15,"sandra.weaver@coldmail.com, 971-759-145-5456",David Franco,MintCream
+pro,16/8/2023,230,Cheryl Swanson,FALSE,7,"cheryl.swanson@coldmail.com, 326-579-010-2906",Amber Coffey,MediumBlue
+enterprise,14/9/2023,$311 ,Jennifer Rogers,TRUE,9,"jennifer.rogers@maddox_holl_russell.com, 815-303-732-0929",Debbie Villanueva,MintCream
+enterprise,14/8/2023,309,Joseph Ortega,TRUE,8,"joseph.ortega@arnold_holloway_ward.org, 875-973-403-5712",Christopher Reid,MintCream
+enterprise,18/8/2023,305,Nicole Marshall,TRUE,7,"nicole.marshall@paul_johns_gilbert.org, 598-932-680-2964",Mark Maldonado,LightGreen
+pro,30/7/2023,229,Jeffrey Jenkins,FALSE,9,"jeffrey.jenkins@gsnail.com, 030-899-751-6781",Debbie Villanueva,MintCream
+pro,20/7/2023,227,Zachary Mills,FALSE,11,"zachary.mills@aobell.com, 112-317-668-0703",Christopher Reid,MintCream
+basic,22/8/2023,$141 ,Bryan Phelps,FALSE,7,"bryan.phelps@gsnail.com, 688-774-769-5299",Nancy Huerta,LightGreen
+enterprise,4/8/2023,326,Dennis Silva,TRUE,8,"dennis.silva@miller_leach_jensen.org, 146-021-731-0602",Thomas Nielsen,SaddleBrown
+basic,2/8/2023,$135 ,Janice Gallegos,FALSE,2,"janice.gallegos@aobell.com, 305-909-201-8117",April Thompson,SaddleBrown
+pro,26/7/2023,$225 ,Matthew Ramos,FALSE,6,"matthew.ramos@gsnail.com, 918-471-761-8597",Thomas Nielsen,SaddleBrown
+enterprise,27/9/2023,$357 ,Bradley Walker,TRUE,9,"bradley.walker@clark_plc.com, 917-374-296-2266",Allison Mcclure,LightGreen
+pro,13/7/2023,238,Alex White,FALSE,8,"alex.white@aobell.com, 444-226-587-0670",Mark Maldonado,LightGreen
+basic,16/6/2023,130,Joshua Lee,FALSE,6,"joshua.lee@gsnail.com, 714-355-992-8265",April Thompson,SaddleBrown
+pro,18/9/2023,231,Alexa Jones,FALSE,7,"alexa.jones@aobell.com, 033-586-293-4790",Nancy Huerta,Light Green
+basic,22/9/2023,148,Rebecca Cruz,FALSE,8,"rebecca.cruz@gsnail.com, 142-775-482-2381",Debbie Villanueva,MintCream
+enterprise,27/9/2023,,Desiree Levine,TRUE,,"desiree.levine@thompson_browning_lawson.org, 317-567-199-9059",Christopher Reid,MintCream
+enterprise,16/8/2023,332,William Jackson,TRUE,8,"william.jackson@werner_green.org, 277-231-177-9424",Kari Fowler,MintCream
+basic,3/7/2023,138,Timothy Chang,FALSE,7,"timothy.chang@coldmail.com, 554-944-607-4004",Amber Coffey,MediumBlue
+enterprise,27/9/2023,346,Jonathan Padilla,TRUE,8,"jonathan.padilla@porter_bell.org, 063-905-339-0518",Allison Mcclure,LightGreen
+basic,25/8/2023,136,Jane Trevino,FALSE,7,"jane.trevino@aobell.com, 715-995-997-0716",Nancy Huerta,LightGreen
+pro,14/8/2023,232,Andrew Miller,FALSE,8,"andrew.miller@coldmail.com, 866-837-507-3151",April Thompson,SaddleBrown
+enterprise,7/26/2023,$336 ,Jeffrey Taylor,TRUE,8,"jeffrey.taylor@salazar_dominguez.com, 544-360-923-9887",Mark Maldonado,LightGreen
+basic,10/7/2023,144,Caitlin Wright,FALSE,7,"caitlin.wright@coldmail.com, 245-663-549-9943",Nancy Huerta,LightGreen
+pro,3/9/2023,247,Richard Castro,FALSE,8,"richard.castro@aobell.com, 941-247-135-0939",Debbie Villanueva,MintCream
+enterprise,1/9/2023,393,Latasha Moore,TRUE,2,"latasha.moore@smith_ltd.org, 511-072-814-5576",David Franco,MintCream
+enterprise,19/8/2023,$377 ,Daniel Payne,TRUE,8,"daniel.payne@campbell_llc.io, 941-734-503-6850",Jill Perez,LightGreen
+enterprise,1/9/2023,,Kimberly Solomon,TRUE,,"kimberly.solomon@thomas_howard.com, 951-352-945-7014",April Thompson,SaddleBrown
+pro,5/6/2023,$245 ,Dennis Perry,FALSE,9,"dennis.perry@coldmail.com, 011-669-775-8317",Jill Perez,LightGreen
+enterprise,10/9/2023,,Angela Snow,TRUE,,"angela.snow@foster_smith_conley.io, 692-864-246-8450",Debbie Villanueva,MintCream
+enterprise,11/9/2023,$333 ,Curtis Marsh,TRUE,8,"curtis.marsh@harris_henderson.org, 050-259-959-8673",Sarah Rowe,MediumBlue
+enterprise,9/7/2023,4191,Nathan Garcia,TRUE,9,"nathan.garcia@dunlap_brooks_moran.org, 664-589-781-7723",Brittany Parker,MintCream
+pro,21/9/2023,237,Isaac Mcclure,FALSE,10,"isaac.mcclure@coldmail.com, 869-083-204-3180",Sarah Camacho,SaddleBrown
+pro,12/7/2023,226,Jamie Hale,FALSE,7,"jamie.hale@gsnail.com, 128-457-005-3610",Kari Fowler,MintCream
+pro,17/9/2023,$240 ,David Foster,FALSE,4,"david.foster@aobell.com, 071-217-984-2158",Zachary Heath,MediumBlue
+basic,7/28/2023,131,John Robinson,FALSE,10,"john.robinson@aobell.com, 855-660-190-7450",Jill Perez,LightGreen
+pro,14/8/2023,240,John Robinson,,8,,,
+pro,2/8/2023,231,Todd Giles,FALSE,3,"todd.giles@aobell.com, 228-696-359-6850",Christopher Reid,MintCream
+pro,24/7/2023,231,Anna Mathews,FALSE,7,"anna.mathews@coldmail.com, 301-737-523-0172",Christopher Reid,MintCream
+enterprise,27/7/2023,309,Jennifer Walker,TRUE,7,"jennifer.walker@smith_jordan.org, 998-630-079-9709",Sarah Camacho,SaddleBrown
+pro,1/6/2023,234,Beverly Massey,FALSE,8,"beverly.massey@gsnail.com, 522-975-475-1634",Sarah Rowe,Medium Blue
+basic,7/7/2023,$135 ,Lance Carlson,FALSE,3,"lance.carlson@gsnail.com, 015-764-905-4012",Thomas Nielsen,SaddleBrown
+basic,10/7/2023,143,Sandra Brown,FALSE,5,"sandra.brown@aobell.com, 006-813-982-0544",Thomas Nielsen,SaddleBrown
+pro,9/7/2023,243,James Donaldson,FALSE,5,"james.donaldson@aobell.com, 471-197-527-3668",Kari Fowler,MintCream
+pro,6/18/2023,232,Gabrielle Morrow,FALSE,7,"gabrielle.morrow@aobell.com, 834-208-183-3208",Thomas Nielsen,SaddleBrown
+pro,18/7/2023,250,Dakota Dunn,FALSE,5,"dakota.dunn@coldmail.com, 296-663-206-5570",Mark Maldonado,LightGreen
+basic,24/7/2023,132,Kelly Rojas,FALSE,7,"kelly.rojas@gsnail.com, 899-980-242-0684",Amber Coffey,MediumBlue
+enterprise,10/7/2023,$341 ,Debra Cunningham,TRUE,10,"debra.cunningham@price_inc.com, 827-910-148-1294",Kari Fowler,MintCream
+pro,7/17/2023,230,Sarah Evans,FALSE,8,"sarah.evans@gsnail.com, 910-728-247-6779",Brittany Parker,MintCream
+enterprise,10/8/2023,$370 ,Adam Watson,TRUE,7,"adam.watson@rowl_schmidt.org, 210-027-840-5777",Sarah Rowe,MediumBlue
+enterprise,12/9/2023,$310 ,Nancy Warren,TRUE,9,"nancy.warren@richards_inc.com, 064-487-938-4167",Kari Fowler,MintCream
+pro,14/7/2023,227,Regina Berry,FALSE,8,"regina.berry@coldmail.com, 727-504-415-0876",Allison Mcclure,LightGreen
+pro,11/9/2023,226,Melissa Williams,FALSE,2,"melissa.williams@gsnail.com, 193-910-256-5959",Nancy Huerta,LightGreen
+enterprise,14/7/2023,333,Gary Nguyen,TRUE,10,"gary.nguyen@cortez_plc.io, 451-097-019-0507",Sarah Camacho,SaddleBrown
+basic,15/8/2023,$149 ,Patrick Walton,FALSE,8,"patrick.walton@aobell.com, 084-954-010-3697",Kari Fowler,MintCream
+pro,29/8/2023,,Kristen Walker,FALSE,,"kristen.walker@gsnail.com, 252-944-041-2164",Nancy Huerta,LightGreen
+pro,4/9/2023,232,Robert Bell,FALSE,10,"robert.bell@coldmail.com, 889-410-460-3648",Sarah Camacho,SaddleBrown
+enterprise,27/9/2023,346,Larry Allen,TRUE,8,"larry.allen@brooks_novak_smith.com, 992-179-756-8014",Sarah Rowe,MediumBlue
+enterprise,5/7/2023,381,Alex Bennett,TRUE,7,"alex.bennett@hall_durham.io, 016-715-885-3265",Amber Coffey,MediumBlue
+pro,15/8/2023,236,Rhonda Williams,FALSE,9,"rhonda.williams@aobell.com, 540-371-986-5318",Brittany Parker,MintCream
+pro,20/7/2023,$234 ,Michelle Espinoza,FALSE,9,"michelle.espinoza@coldmail.com, 568-440-530-2710",Brittany Parker,MintCream
+enterprise,30/9/2023,309,Tiffany Anderson,TRUE,7,"tiffany.anderson@roberson_llc.io, 283-074-007-3329",David Franco,MintCream
+pro,28/9/2023,233,Caitlin Campbell,FALSE,8,"caitlin.campbell@coldmail.com, 821-635-531-9723",Kari Fowler,MintCream
+pro,26/6/2023,244,Kevin Guzman,FALSE,7,"kevin.guzman@gsnail.com, 627-513-233-1618",Sarah Rowe,MediumBlue
+basic,28/8/2023,136,Thomas Gomez,FALSE,7,"thomas.gomez@gsnail.com, 209-905-764-9381",Mark Maldonado,LightGreen
+basic,4/9/2023,141,Nicholas Bryant,FALSE,7,"nicholas.bryant@gsnail.com, 440-491-093-0559",Sarah Rowe,MediumBlue
+basic,30/8/2023,141,Danny Daniel,FALSE,3,"danny.daniel@aobell.com, 480-590-381-0989",Mark Maldonado,LightGreen
+pro,23/7/2023,$237 ,Brandi Lee,FALSE,5,"brandi.lee@coldmail.com, 271-202-908-9802",Brittany Parker,MintCream
+pro,30/7/2023,$233 ,Mario Mcgee,FALSE,7,"mario.mcgee@aobell.com, 881-633-854-5620",Allison Mcclure,LightGreen
+enterprise,8/9/2023,363,Ashley Heath,TRUE,8,"ashley.heath@villa_guerra.org, 627-728-939-1797",Sarah Rowe,MediumBlue
+enterprise,7/8/2023,369,Megan Richard,TRUE,8,"megan.richard@wilson_torres_robinson.com, 808-549-901-1781",Thomas Nielsen,SaddleBrown
+basic,3/6/2023,$131 ,Joshua Nelson,FALSE,5,"joshua.nelson@gsnail.com, 950-413-332-7013",Christopher Reid,MintCream
+basic,2/7/2023,137,Pamela Carr,FALSE,8,"pamela.carr@coldmail.com, 509-183-799-4039",Nancy Huerta,LightGreen
+pro,9/7/2023,200,Pamela Carr,,9,,,
+enterprise,27/6/2023,309,Tanya Brown,TRUE,8,"tanya.brown@hodge_group.io, 479-111-470-1952",Thomas Nielsen,SaddleBrown
+basic,5/9/2023,141,Jason Johnson,FALSE,8,"jason.johnson@gsnail.com, 406-315-327-0800",David Franco,MintCream
+basic,11/7/2023,145,James Smith,FALSE,8,"james.smith@gsnail.com, 523-458-707-3194",April Thompson,SaddleBrown
+pro,16/9/2023,$232 ,Michelle Herrera,FALSE,4,"michelle.herrera@aobell.com, 481-548-520-8150",April Thompson,SaddleBrown
+basic,26/8/2023,135,Vincent Simon,FALSE,14,"vincent.simon@gsnail.com, 688-678-535-9285",Kari Fowler,MintCream
+basic,18/8/2023,148,Megan Valdez,FALSE,10,"megan.valdez@coldmail.com, 941-210-070-6650",Allison Mcclure,LightGreen
+pro,30/8/2023,230,Robert Wheeler,FALSE,9,"robert.wheeler@coldmail.com, 400-477-311-1760",Allison Mcclure,LightGreen
+enterprise,15/9/2023,330,Sydney Bailey,TRUE,9,"sydney.bailey@barron_holden.io, 343-519-453-6252",Mark Maldonado,LightGreen
+enterprise,8/19/2023,306,Laura Pierce,TRUE,7,"laura.pierce@roberts_sons.com, 414-606-985-4615",Mark Maldonado,LightGreen
+enterprise,7/17/2023,373,Erica Miller,TRUE,8,"erica.miller@hoover_sons.com, 765-200-714-5615",April Thompson,SaddleBrown
+enterprise,2/9/2023,357,Jennifer Richard,TRUE,8,"jennifer.richard@perez_merritt_carter.io, 954-681-295-4410",April Thompson,SaddleBrown
+enterprise,10/9/2023,,Angela Snow,TRUE,,"angela.snow@foster_smith_conley.io, 692-864-246-8450",Debbie Villanueva,MintCream
+basic,7/7/2023,$135 ,Lance Carlson,FALSE,3,"lance.carlson@gsnail.com, 015-764-905-4012",Thomas Nielsen,SaddleBrown

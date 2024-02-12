@@ -1,0 +1,179 @@
+employee_id,employee_name,employee_email,role,level,Department,country,start_date,end_date, tenure,reason_for_leaving,salary
+rm903eji,Robert Martinez,robert.martinez@renhaas.org,Compliance Officer,Executive,People,US,11/02/2015,,3165,,$43145.00
+mb802ypf,Matthew Bradley,matthew.bradley@renhaas.org,Complaints Officer,Senior Executive,Customer Support,USA,24/02/2012,,4248,,$43067.00
+jm480udd,Jeremy Miller,jeremy.miller@renhaas.org,Office Manager,Associate,People,UK,25/05/2016,,2696,,£31495.00
+ca979wpl,Carolyn Alexander,,AM,Associate,Go To Market,USA,09/05/2020,03/11/2022,907,Resigned,$49304.00
+km997zvz,Kenneth Moore,kenneth.moore@renhaas.org,Office Manager,Executive,People,USA,10/10/2022,,367,,$40301.00
+dh258eqt,Donna Hayes,donna.hayes@renhaas.org,Payroll Analyst,Executive,People,USA,09/01/2011,,4659,,$41955.00
+jp935nrn,Jack Pham,jack.pham@renhaas.org,Technician,Associate,Customer Support,USA,26/03/2020,,1295,,$39822.00
+mb363bwy,Michelle Buckley,michelle.buckley@renhaas.org,Analyst,Executive,Customer Support,USA,16/07/2022,,453,,$43140.00
+dg754jov,Darrell Guerrero,darrell.guerrero@renhaas.org,AM,Executive,GTM,United States,16/06/2020,,1213,,$51399.00
+aa655obb,Ashley Aguilar,ashley.aguilar@renhaas.org,Analyst,Associate,Customer Support,US,09/01/2017,,2467,,$41287.00
+aa655obb,Ashley Aguilar,ashley.aguilar@renhaas.org,Analyst,Associate,Customer Support,US,09/01/2017,,2467,,$41287.00
+lw137bjg,Leah Williams,leah.williams@renhaas.org,Marketing Analyst,Executive,Marketing,United States,28/05/2011,,4520,,$56667.00
+aa664nqh,Andrea Austin,andrea.austin@renhaas.org,Researcher,Executive,Product,US,24/11/2010,,4705,,$64383.00
+pa919sqz,Peter Atkinson,peter.atkinson@renhaas.org,Office Manager,Executive,People,United States,11/02/2013,,3895,,$139803.00
+as966hhn,Ana Stewart,,Complaints Officer,Principal,Customer Support,US,06/05/2012,06/04/2013,335,Retired,$46587.00
+dk742cqt,Dana Klein,dana.klein@renhaas.org,Analyst,Principal,Data,US,17/09/2022,,390,,$82839.00
+kt196iim,Katherine Thomas,katherine.thomas@renhaas.org,Software Engineer,Associate,Product,United States,26/09/2013,,3668,,$62753.00
+rb351enj,Rachel Blair,rachel.blair@renhaas.org,Marketing Analyst,Senior Executive,Marketing,UK,10/11/2019,,1432,,£52671.00
+mg386ncs,Marie Garcia,marie.garcia@renhaas.org,Analyst,Associate,Customer Support,United Kingdom,26/01/2021,,989,,£33691.00
+eg597tsp,Emily Graves,emily.graves@renhaas.org,Analyst,Principal,Data and Insight,United Kingdom,11/01/2013,,3926,,£69382.00
+dh556ynm,Daniel Hopkins,daniel.hopkins@renhaas.org,Data Scientist,Associate,Data,US,29/10/2018,,1809,,$67061.00
+nk673nzl,Nathan King,nathan.king@renhaas.org,AM,Executive,GTM,United States,28/12/2019,,1384,,$50827.00
+jy204idz,Johnny Young,johnny.young@renhaas.org,Technician,Executive,Customer Support,United Kingdom,27/11/2020,,1049,,£34940.00
+pd394mtl,Patrick Durham,,Complaints Officer,Executive,Customer Support,United Kingdom,28/07/2014,18/11/2016,843,Resigned,£31883.00
+jm513juc,Justin Mueller,,Analyst,Executive,D&I,United States,01/04/2021,07/09/2023,889,Resigned,$70689.00
+df436gho,Dana Flowers,dana.flowers@renhaas.org,Complaints Officer,Associate,Customer Support,United Kingdom,29/01/2020,,1352,,£30105.00
+sm756ocq,Stephanie Mccoy,stephanie.mccoy@renhaas.org,Account Manager,Executive,Go To Market,US,03/07/2011,,4484,,$50922.00
+mw311fbj,Michael West,,Complaints Officer,Principal,Customer Support,United States,04/06/2010,28/09/2019,3403,Resigned,$46650.00
+cp328cxu,Cameron Perez,cameron.perez@renhaas.org,Complaints Officer,Executive,Customer Support,United Kingdom,30/11/2017,,2142,,£31759.00
+pp952erb,Paige Prince,paige.prince@renhaas.org,Hiring Manager,Principal,People,United Kingdom,09/09/2018,,1859,,£42173.00
+ms540ttn,Maurice Smith,,CSM,Principal,Go To Market,US,30/10/2012,22/12/2016,1514,Resigned,$60137.00
+jb535rzg,John Burke,john.burke@renhaas.org,Analyst,Executive,Data,United States,02/12/2020,,1044,,$68419.00
+ew791ltw,Emily Watkins,emily.watkins@renhaas.org,Analyst,Principal,D&I,United States,05/07/2010,,4847,,$84370.00
+dl469eyj,Deborah Lopez,deborah.lopez@renhaas.org,Diversity Officer,Associate,People,US,27/06/2021,,837,,$36690.00
+dl469eyj,Deborah Lopez,deborah.lopez@renhaas.org,Diversity Officer,Associate,People,US,27/06/2021,,837,,$36690.00
+bh776fro,Billy Hawkins,,Marketing Analyst,Executive,Marketing,UK,07/08/2016,28/04/2023,2455,Retired,£48314.00
+kr481ewm,Kyle Richard,kyle.richard@renhaas.org,Compliance Officer,Executive,People,USA,21/10/2015,,2913,,$42711.00
+lr741vmj,Logan Rodriguez,logan.rodriguez@renhaas.org,Office Manager,Executive,People,United States,26/02/2018,,2054,,$39468.00
+rp373mgo,Robert Perez,robert.perez@renhaas.org,Marketing Analyst,Associate,Marketing,US,15/09/2021,,757,,$56265.00
+mk884xaz,Mark Klein,,Diversity Officer,Executive,People,USA,24/01/2011,21/06/2022,4165,Resigned,$40368.00
+so225ebf,Stacey Ortiz,stacey.ortiz@renhaas.org,Analyst,Associate,Customer Support,UK,22/02/2019,,1693,,£34026.00
+ka199vrg,Kelly Avery,kelly.avery@renhaas.org,Technician,Executive,Customer Support,United Kingdom,11/04/2019,,1645,,£33875.00
+ka199vrg,Kelly Avery,kelly.avery@renhaas.org,Technician,Executive,Customer Support,United Kingdom,11/04/2019,,1645,,£33875.00
+mk575rgm,Michael Kane,michael.kane@renhaas.org,Data Scientist,Principal,Data and Insight,UK,25/03/2020,,1296,,£68530.00
+kl718gyg,Kristin Lowery,kristin.lowery@renhaas.org,Compliance Officer,Principal,People,United Kingdom,08/03/2014,,3505,,£41895.00
+kl718gyg,Kristin Lowery,kristin.lowery@renhaas.org,Compliance Officer,Principal,People,United Kingdom,08/03/2014,,3505,,£41895.00
+rg175hdw,Rodney Garcia,rodney.garcia@renhaas.org,Hiring Manager,Executive,People,US,22/07/2014,,3369,,$42942.00
+sl957pjw,Scott Lane,scott.lane@renhaas.org,Analyst,Senior Executive,Customer Support,USA,25/05/2021,,870,,$47499.00
+rw602qhr,Ryan White,ryan.white@renhaas.org,Data Scientist,Executive,D&I,USA,24/01/2010,,5009,,$72248.00
+cw727lhj,Christopher Weaver,christopher.weaver@renhaas.org,Complaints Officer,Principal,Customer Support,US,31/05/2013,,3786,,$46737.00
+jm655nyh,Joshua Mills,joshua.mills@renhaas.org,Office Manager,Executive,People,United States,04/02/2014,,3537,,$41049.00
+ea365ysh,Edward Adams,edward.adams@renhaas.org,Data Scientist,Associate,Data,United Kingdom,29/04/2023,,166,,£54016.00
+th506wbi,Tim Hurst,tim.hurst@renhaas.org,Analyst,Senior Executive,Customer Support,US,04/05/2019,,1622,,$47142.00
+mp268rme,Marie Parker,marie.parker@renhaas.org,Office Manager,Associate,People,United States,11/04/2023,,184,,$38542.00
+ss627zdx,Sandy Stevens,,Marketing Analyst,Executive,Marketing,US,26/04/2010,02/09/2020,3781,Resigned,$58976.00
+jj695mec,Jamie Jensen,,CSM,Associate,GTM,US,04/02/2016,19/08/2023,2753,Resigned,$48313.00
+aj757fei,Aaron Jackson,aaron.jackson@renhaas.org,Marketing Analyst,Executive,Marketing,USA,05/05/2017,,2351,,$58183.00
+bl731ypg,Barbara Lang,barbara.lang@renhaas.org,Marketing Analyst,Associate,Marketing,United States,26/04/2021,,899,,$55932.00
+jv562gmz,Justin Vaughan,,Account Manager,Associate,Go To Market,US,14/01/2023,20/01/2023,6,Resigned,$48216.00
+id363tpi,Isaac Dean,isaac.dean@renhaas.org,Product Manager,Associate,Product,United States,01/05/2018,,1990,,$59177.00
+ms871ebz,Mary Scott,mary.scott@renhaas.org,Data Scientist,Executive,Data and Insight,United States,31/07/2019,,1534,,$171045.00
+kc596icb,Kaitlin Campos,kaitlin.campos@renhaas.org,Complaints Officer,Associate,Customer Support,US,15/01/2022,,635,,$37010.00
+kh392iec,Katie Hernandez,katie.hernandez@renhaas.org,Quality Assurance Tester,Executive,Product,United Kingdom,21/09/2010,,4769,,£50874.00
+jf922rcd,James Fisher,james.fisher@renhaas.org,Analyst,Executive,Customer Support,US,25/05/2018,,1966,,$43172.00
+ch214nmo,Cheryl Ho,cheryl.ho@renhaas.org,Technician,Executive,Customer Support,United States,14/03/2010,,4960,,$42585.00
+an480vcz,Alan Neal,alan.neal@renhaas.org,Technician,Principal,Customer Support,US,12/12/2022,,304,,$50103.00
+sr250idg,Shannon Robinson,shannon.robinson@renhaas.org,Marketing Analyst,Senior Executive,Marketing,United States,14/01/2016,,2828,,$64165.00
+ch201mus,Christopher Hutchinson,christopher.hutchinson@renhaas.org,Marketing Analyst,Senior Executive,Marketing,USA,08/08/2016,,2621,,$64143.00
+pw510nmx,Paula Webb,paula.webb@renhaas.org,Analyst,Executive,D&I,USA,23/04/2021,,902,,$69591.00
+ra156qjv,Raymond Allen,raymond.allen@renhaas.org,CSM,Associate,GTM,US,14/02/2011,,4623,,$48194.00
+cg334guz,Christopher Gomez,christopher.gomez@renhaas.org,Software Engineer,Associate,Product,USA,26/08/2023,,47,,$63997.00
+dz684iiq,Dana Zimmerman,dana.zimmerman@renhaas.org,Payroll Analyst,Principal,People,USA,11/10/2018,,1827,,$49857.00
+wc905ynr,Wendy Curtis,wendy.curtis@renhaas.org,AM,Executive,GTM,United Kingdom,25/04/2019,,1631,,£42105.00
+ld139pzu,Lindsay Davis,lindsay.davis@renhaas.org,Marketing Analyst,Executive,Marketing,United Kingdom,15/05/2013,,3802,,£47424.00
+rc886pen,Roger Carr,roger.carr@renhaas.org,Hiring Manager,Executive,People,United States,09/01/2010,,5024,,$42685.00
+jh281iea,Jose Hanna,jose.hanna@renhaas.org,Hiring Manager,Senior Executive,People,United States,19/03/2012,,4224,,$47711.00
+kj115beu,Kristy Johnson,kristy.johnson@renhaas.org,CSM,Executive,Go To Market,United States,24/04/2017,,2362,,$50552.00
+br774jkp,Brandy Rose,brandy.rose@renhaas.org,Analyst,Executive,Customer Support,USA,10/09/2012,,4049,,$43371.00
+cj630yto,Charles Johnston,charles.johnston@renhaas.org,Analyst,Associate,D&I,UK,19/10/2019,,1454,,£53079.00
+mc580ulz,Matthew Christensen,matthew.christensen@renhaas.org,Analyst,Executive,Customer Support,US,02/11/2011,,4362,,$43153.00
+jk289abo,Jason Keller,jason.keller@renhaas.org,Quality Assurance Tester,Associate,Product,US,06/01/2010,,5027,,$56861.00
+ms609nsr,Megan Smith,,AM,Associate,GTM,UK,15/01/2017,22/08/2019,949,Resigned,£40490.00
+th712kom,Tina Horne,,Analyst,Senior Executive,Customer Support,US,08/08/2012,05/04/2020,2796,Resigned,$47333.00
+mh372rim,Michael Holden,michael.holden@renhaas.org,Hiring Manager,Senior Executive,People,US,22/09/2015,,2942,,$47298.00
+cw318typ,Chelsea Wood,chelsea.wood@renhaas.org,Analyst,Executive,D&I,USA,23/08/2015,,2972,,$68457.00
+kr341vlr,Kristina Reyes,kristina.reyes@renhaas.org,Marketing Analyst,Principal,Marketing,UK,19/06/2019,,1576,,£56840.00
+sj404wzz,Stacey Johnson,stacey.johnson@renhaas.org,Account Manager,Principal,Go To Market,UK,13/06/2023,,121,,£50022.00
+ar860yuq,Amber Rosario,amber.rosario@renhaas.org,Technician,Executive,Customer Support,UK,26/05/2015,,3061,,£34461.00
+mm124qwk,Matthew Mitchell,matthew.mitchell@renhaas.org,Customer Success Manager,Executive,GTM,US,29/11/2019,,1413,,$50121.00
+th207hiv,Teresa Harris,teresa.harris@renhaas.org,Analyst,Executive,Customer Support,United Kingdom,20/10/2016,,2548,,£35972.00
+mg213shx,Melissa Gibson,melissa.gibson@renhaas.org,AM,Executive,Go To Market,United States,19/01/2023,,266,,$51313.00
+mg213shx,Melissa Gibson,melissa.gibson@renhaas.org,AM,Executive,Go To Market,United States,19/01/2023,,266,,$51313.00
+rr956uqg,Ryan Richards,ryan.richards@renhaas.org,Analyst,Executive,Customer Support,US,09/02/2016,,2802,,$43975.00
+gs748gcr,Glen Sullivan,glen.sullivan@renhaas.org,Account Manager,Executive,GTM,USA,22/04/2019,,1634,,$50532.00
+dh872ohr,David Hester,david.hester@renhaas.org,Marketing Analyst,Senior Executive,Marketing,United States,12/01/2012,,4291,,$63367.00
+jl790gpl,Jennifer Li,,Data Scientist,Executive,D&I,United States,10/10/2022,27/04/2023,198,Resigned,$71975.00
+ck593ari,Charles Knight,charles.knight@renhaas.org,Diversity Officer,Associate,People,US,20/08/2011,,4436,,$38125.00
+ck593ari,Charles Knight,charles.knight@renhaas.org,Diversity Officer,Associate,People,US,20/08/2011,,4436,,$38125.00
+me482pch,Mary Ellison,mary.ellison@renhaas.org,Designer,Executive,Product,US,02/10/2020,,1105,,$64983.00
+mb173pfu,Michael Burke,michael.burke@renhaas.org,Office Manager,Associate,People,UK,28/07/2023,,76,,£31285.00
+jc714xzn,Jose Cowan,jose.cowan@renhaas.org,Data Scientist,Senior Executive,Data and Insight,United States,09/01/2011,,4659,,$78444.00
+mk361edc,Michelle Kelley,,Analyst,Senior Executive,D&I,UK,26/07/2012,21/07/2014,725,Resigned,£62188.00
+am595ijq,Adam Macias,adam.macias@renhaas.org,Software Engineer,Executive,Product,US,31/05/2023,,134,,$68427.00
+ss952qmi,Stephen Silva,stephen.silva@renhaas.org,Compliance Officer,Executive,People,USA,01/06/2021,,863,,$42712.00
+tj361sgb,Timothy Johnson,timothy.johnson@renhaas.org,Product Manager,Executive,Product,USA,22/08/2013,,3703,,$63412.00
+dk205soa,David King,david.king@renhaas.org,Analyst,Executive,Product,UK,30/03/2017,,2387,,£54733.00
+dk205soa,David King,david.king@renhaas.org,Analyst,Executive,Product,UK,30/03/2017,,2387,,£54733.00
+ah360tyh,Albert Henry,,Analyst,Executive,Data and Insight,United Kingdom,27/06/2015,07/11/2015,132,Resigned,£56424.00
+ch970lov,Christopher Hampton,christopher.hampton@renhaas.org,Analyst,Executive,Data,US,29/03/2014,,3484,,$69241.00
+sc723ari,Sarah Chandler,sarah.chandler@renhaas.org,Compliance Officer,Principal,People,United Kingdom,31/08/2013,,3694,,£42781.00
+ma701ate,Mikayla Anderson,mikayla.anderson@renhaas.org,Designer,Associate,Product,US,18/01/2012,,4285,,$162871.00
+kl386zkj,Kimberly Li,kimberly.li@renhaas.org,Technician,Executive,Customer Support,USA,01/11/2012,,3997,,$41950.00
+jw690ubd,Julie Ward,julie.ward@renhaas.org,Diversity Officer,Associate,People,US,21/03/2021,,935,,$37544.00
+mh665lit,Michelle Hall,michelle.hall@renhaas.org,Marketing Analyst,Principal,Marketing,USA,25/02/2011,,4612,,$69297.00
+db689poa,David Buchanan,david.buchanan@renhaas.org,Marketing Analyst,Executive,Marketing,USA,29/09/2018,,1839,,$58286.00
+jb454afm,John Browning,john.browning@renhaas.org,Analyst,Senior Executive,Data and Insight,US,18/06/2015,,3038,,$75434.00
+dw706wau,David Wilkins,,Researcher,Associate,Product,United States,15/01/2011,15/04/2022,4107,Resigned,$61133.00
+cy220ems,Caroline Young,caroline.young@renhaas.org,AM,Senior Executive,Go To Market,USA,25/12/2015,,2848,,$56482.00
+jv880gfb,Jonathan Vega,jonathan.vega@renhaas.org,Researcher,Executive,Product,UK,16/08/2012,,4074,,£53721.00
+rc602qzb,Rachel Cohen,rachel.cohen@renhaas.org,Researcher,Executive,Product,US,21/11/2017,,2151,,$66311.00
+jj680gma,John Johnson,john.johnson@renhaas.org,Customer Success Manager,Associate,GTM,US,12/09/2019,,1491,,$48081.00
+tp190azc,Timothy Perez,timothy.perez@renhaas.org,Technician,Executive,Customer Support,USA,28/02/2017,,2417,,$141894.00
+dr773tst,David Ryan,,Technician,Executive,Customer Support,USA,27/05/2016,16/03/2021,1754,Resigned,$41545.00
+pp550czz,Paul Peterson,paul.peterson@renhaas.org,Diversity Officer,Executive,People,US,10/03/2016,,2772,,$39223.00
+cm332rjf,Carla Myers,carla.myers@renhaas.org,Product Manager,Executive,Product,US,03/06/2013,,3783,,$64137.00
+ad185wtq,Andrew Dean,andrew.dean@renhaas.org,Analyst,Principal,Data,UK,11/03/2023,,215,,£67081.00
+am767fjo,Angela Morrow,,Account Manager,Senior Executive,Go To Market,United States,30/12/2020,30/04/2023,850,Retired,$56634.00
+rw332ipn,Robert Wheeler,robert.wheeler@renhaas.org,Complaints Officer,Executive,Customer Support,USA,22/08/2022,,416,,$39607.00
+ak608tmh,Amanda Kerr,,Designer,Executive,Product,USA,28/06/2014,13/12/2022,3090,Resigned,$66298.00
+lr500jwr,Lindsey Richards,lindsey.richards@renhaas.org,Marketing Analyst,Associate,Marketing,United States,24/08/2020,,1144,,$55401.00
+tc228jeu,Timothy Clark,timothy.clark@renhaas.org,Account Manager,Associate,Go To Market,US,19/03/2015,,3129,,$47925.00
+ms742xyu,Melissa Sloan,melissa.sloan@renhaas.org,Hiring Manager,Executive,People,United States,28/03/2011,,4581,,$42135.00
+sw230nxn,Shirley Wilson,,Compliance Officer,Executive,People,USA,20/03/2018,03/08/2023,1961,Resigned,$42919.00
+lg214cma,Luke Gross,luke.gross@renhaas.org,Software Engineer,Associate,Product,United States,04/04/2019,,1652,,$63615.00
+ah302wvb,Andrew Hardy,andrew.hardy@renhaas.org,Marketing Analyst,Executive,Marketing,USA,02/12/2012,,3966,,$57260.00
+hm860tmo,Holly Matthews,holly.matthews@renhaas.org,Marketing Analyst,Executive,Marketing,USA,12/02/2022,,607,,$58368.00
+jc551aiz,James Chapman,,Designer,Associate,Product,United States,03/07/2011,08/01/2017,2015,Resigned,$61291.00
+tb998sxb,Thomas Bean,thomas.bean@renhaas.org,Analyst,Executive,Customer Support,US,17/04/2017,,2369,,$43798.00
+br832nje,Bill Reed,bill.reed@renhaas.org,Analyst,Senior Executive,Data and Insight,United Kingdom,01/03/2016,,2781,,£62887.00
+br832nje,Bill Reed,bill.reed@renhaas.org,Analyst,Senior Executive,Data and Insight,United Kingdom,01/03/2016,,2781,,£62887.00
+tb222qhb,Travis Brown,travis.brown@renhaas.org,Customer Success Manager,Executive,Go To Market,US,29/04/2023,,166,,$51889.00
+lm985rzf,Leah Morton,leah.morton@renhaas.org,Data Scientist,Associate,Data,US,11/11/2019,,1431,,$67394.00
+eb411azs,Evelyn Bautista,evelyn.bautista@renhaas.org,Technician,Associate,Customer Support,United Kingdom,22/03/2019,,1665,,£32569.00
+eb411azs,Evelyn Bautista,evelyn.bautista@renhaas.org,Technician,Associate,Customer Support,United Kingdom,22/03/2019,,1665,,£32569.00
+lk913etm,Laura King,laura.king@renhaas.org,Customer Success Manager,Executive,Go To Market,USA,26/09/2012,,4033,,$49519.00
+cd246fjh,Christopher David,christopher.david@renhaas.org,Marketing Analyst,Executive,Marketing,UK,28/04/2015,,3089,,£46322.00
+dh608wzl,David Horton,,Designer,Principal,Product,United Kingdom,01/11/2014,23/12/2017,1148,Retired,£64930.00
+kc329ujn,Kathy Clark,kathy.clark@renhaas.org,AM,Executive,Go To Market,United States,19/11/2012,,3979,,$151487.00
+ad417rdg,Alyssa Dennis,alyssa.dennis@renhaas.org,Technician,Executive,Customer Support,UK,14/10/2015,,2920,,£33996.00
+ca572sle,Cynthia Alvarez,cynthia.alvarez@renhaas.org,Product Manager,Executive,Product,USA,15/02/2020,,1335,,$64085.00
+ca572sle,Cynthia Alvarez,cynthia.alvarez@renhaas.org,Product Manager,Executive,Product,USA,15/02/2020,,1335,,$64085.00
+mt100ogb,Marc Tanner,marc.tanner@renhaas.org,Technician,Principal,Customer Support,United States,02/05/2010,,4911,,$50409.00
+ks848qaf,Kari Simmons,kari.simmons@renhaas.org,AM,Associate,GTM,UK,10/02/2011,,4627,,£122082.00
+js122skf,Jasmin Stone,jasmin.stone@renhaas.org,Hiring Manager,Executive,People,United States,09/08/2016,,2620,,$42586.00
+rv117gcn,Robin Valencia,robin.valencia@renhaas.org,Hiring Manager,Associate,People,United Kingdom,09/05/2015,,3078,,£33349.00
+rv117gcn,Robin Valencia,robin.valencia@renhaas.org,Hiring Manager,Associate,People,United Kingdom,09/05/2015,,3078,,£33349.00
+lb896yxn,Leslie Brown,leslie.brown@renhaas.org,Analyst,Executive,Data,USA,18/04/2016,,2733,,$70137.00
+wh350qyj,William Hansen,william.hansen@renhaas.org,Hiring Manager,Executive,People,US,28/01/2019,,1718,,$42976.00
+md668ctn,Meghan Davis,meghan.davis@renhaas.org,Office Manager,Executive,People,US,17/12/2011,,4317,,$41235.00
+hh791prj,Heather Harrison,heather.harrison@renhaas.org,Diversity Officer,Executive,People,United States,27/03/2023,,199,,$39106.00
+rp818kcv,Ross Parker,ross.parker@renhaas.org,Technician,Executive,Customer Support,United States,17/09/2019,,1486,,$41873.00
+th469geo,Tyler Howell,tyler.howell@renhaas.org,Office Manager,Executive,People,United Kingdom,29/07/2016,,2631,,£34055.00
+jm721kwq,John Miller,john.miller@renhaas.org,Account Manager,Executive,Go To Market,US,21/06/2011,,4496,,$50785.00
+aw975ozc,April Weiss,,Customer Success Manager,Senior Executive,GTM,United Kingdom,17/10/2016,07/02/2021,1573,Resigned,£44389.00
+ap622vsi,Amy Peters,amy.peters@renhaas.org,Researcher,Executive,Product,US,17/08/2013,,3708,,$65682.00
+sg823ejr,Stacy Guerrero,stacy.guerrero@renhaas.org,CSM,Executive,Go To Market,US,05/07/2018,,1925,,$49597.00
+cc218uca,Corey Cunningham,corey.cunningham@renhaas.org,Marketing Analyst,Associate,Marketing,UK,06/06/2020,,1223,,£45405.00
+js865rkx,Jason Smith,jason.smith@renhaas.org,Diversity Officer,Executive,People,United Kingdom,02/06/2016,,2688,,£32714.00
+bo631tvd,Brandy Ortiz,brandy.ortiz@renhaas.org,Account Manager,Executive,Go To Market,United States,04/09/2016,,2594,,$51247.00
+eb803web,Erik Boyd,erik.boyd@renhaas.org,Marketing Analyst,Executive,Marketing,US,20/02/2014,,3521,,$57243.00
+ag544sha,Alexa Gilmore,alexa.gilmore@renhaas.org,Quality Assurance Tester,Executive,Product,USA,02/11/2018,,1805,,$61069.00
+bc687xmm,Brett Cruz,brett.cruz@renhaas.org,Office Manager,Principal,People,USA,19/08/2017,,2245,,$47249.00
+sw383oqj,Shelby Wilson,shelby.wilson@renhaas.org,CSM,Executive,GTM,USA,18/04/2018,,2003,,$50216.00
+sl815zus,Savannah Lewis,savannah.lewis@renhaas.org,Analyst,Executive,Product,USA,17/05/2019,,1609,,$65589.00
+al932wbe,April Lee,april.lee@renhaas.org,Diversity Officer,Executive,People,United Kingdom,09/02/2016,,2802,,£32277.00
+mc495klh,Michael Case,,Technician,Executive,Customer Support,USA,08/02/2020,12/12/2021,672,Resigned,$42744.00
+mc723vcn,Monique Campbell,monique.campbell@renhaas.org,Analyst,Senior Executive,Customer Support,United States,09/12/2010,,4690,,$48039.00
+mc723vcn,Monique Campbell,monique.campbell@renhaas.org,Analyst,Senior Executive,Customer Support,United States,09/12/2010,,4690,,$48039.00

@@ -1,0 +1,410 @@
+line_name,station_id
+District,act316
+Piccadilly,act316
+Circle,ald843
+Metropolitan,ald843
+District,ald579
+Hammersmith & City,ald579
+Piccadilly,alp186
+Metropolitan,ame377
+Northern,ang779
+Northern,arc933
+Piccadilly,arn984
+Piccadilly,ars283
+Bakerloo,bak394
+Circle,bak394
+Jubilee,bak394
+Hammersmith & City,bak394
+Metropolitan,bak394
+Northern,bal367
+Central,ban753
+Northern,ban753
+Waterloo & City,ban753
+Circle,bar182
+Hammersmith & City,bar182
+Metropolitan,bar182
+District,bar352
+Hammersmith & City,bar352
+London Overground,bar352
+Central,bar528
+District,bar970
+Piccadilly,bar970
+Circle,bay243
+District,bay243
+District,bec820
+Northern,bel904
+Jubilee,ber640
+Central,bet419
+Circle,bla684
+District,bla684
+London Overground,bla749
+Victoria,bla749
+Central,bon489
+Jubilee,bon489
+TfL Rail,bon489
+Northern,bor939
+Piccadilly,bos861
+Piccadilly,bou551
+District,bow325
+Hammersmith & City,bow325
+Northern,bre132
+Victoria,bri164
+District,bro523
+Hammersmith & City,bro523
+Central,buc141
+Northern,bur173
+Piccadilly,cal320
+Northern,cam290
+Jubilee,can846
+London Overground,can846
+Jubilee,can872
+DLR,can421
+Jubilee ,can421
+Circle,can199
+District,can199
+Jubilee,can418
+Metropolitan,cha661
+Northern,cha415
+Central,cha346
+Bakerloo,cha534
+Northern,cha534
+Metropolitan,che444
+Central,chi133
+District,chi138
+Metropolitan,cho915
+Northern,cla242
+Northern,cla635
+Northern,cla155
+Piccadilly,coc556
+Northern,col275
+Northern,col102
+Piccadilly,cov999
+Metropolitan,cro575
+District,dag923
+District,dag722
+Central,deb454
+Jubilee,dol272
+Central,eal997
+District,eal997
+TfL Rail,eal997
+District,eal390
+Piccadilly,eal390
+District,ear404
+Piccadilly,ear404
+Central,eas162
+Northern,eas277
+District,eas275
+Hammersmith & City,eas275
+District,eas596
+Metropolitan,eas468
+Piccadilly,eas468
+Northern,edg385
+Bakerloo,edg476
+Circle,edg703
+Hammersmith & City,edg703
+Bakerloo,ele374
+Northern,ele374
+District,elm691
+Bakerloo,emb734
+Circle,emb734
+District,emb734
+Northern,emb734
+Central,epp178
+Northern,eus865
+Victoria,eus865
+Circle,eus352
+Hammersmith & City,eus352
+Metropolitan,eus352
+Central,fai851
+Circle,far177
+Hammersmith & City,far177
+Metropolitan,far177
+TfL Rail,far177
+Northern,fin279
+Metropolitan,fin155
+Jubilee,fin155
+Piccadilly,fin567
+Victoria,fin567
+District,ful646
+Central,gan798
+District,glo284
+Piccadilly,glo284
+Circle,glo284
+Northern,gol341
+Circle,gol416
+Hammersmith & City,gol416
+Northern,goo324
+Central,gra423
+Circle,gre593
+Hammersmith & City,gre593
+Metropolitan,gre593
+Jubilee,gre948
+Piccadilly,gre948
+Victoria,gre948
+Central,gre181
+District,gun516
+London Overground,gun516
+Central,hai801
+District,ham786
+Piccadilly,ham786
+Circle,ham724
+Hammersmith & City,ham724
+Northern,ham275
+Central,han219
+Bakerloo,har938
+London Overground,har938
+Bakerloo,har796
+London Overground,har796
+Metropolitan,har677
+Piccadilly,hat419
+Piccadilly,hea900
+Piccadilly,hea476
+Piccadilly,hea781
+Northern,hen192
+Northern,hig428
+Circle,hig952
+District,hig952
+London Overground,hig119
+Victoria,hig119
+Northern,hig115
+Metropolitan,hil845
+Piccadilly,hil845
+Central,hol670
+Piccadilly,hol670
+Central,hol831
+Piccadilly,hol925
+District,hor479
+Piccadilly,hou624
+Piccadilly,hou302
+Piccadilly,hou279
+Piccadilly,hyd545
+Metropolitan,ick711
+Piccadilly,ick711
+Northern,ken612
+Bakerloo,ken929
+London Overground,ken929
+District,ken987
+London Overground,ken987
+Northern,ken954
+Bakerloo,ken860
+London Overground,ken860
+District,kew260
+London Overground,kew260
+Jubilee,kil436
+Bakerloo,kil584
+Circle,kin366
+Hammersmith & City,kin366
+Metropolitan,kin366
+Northern,kin366
+Piccadilly,kin366
+Victoria,kin366
+Jubilee,kin287
+Piccadilly,kni875
+Circle,lad852
+Hammersmith & City,lad852
+Bakerloo,lam982
+Central,lan850
+Circle,lat716
+Hammersmith & City,lat716
+Piccadilly,lei771
+Northern,lei771
+Central,ley888
+Central,ley250
+Central,liv579
+Circle,liv579
+Hammersmith & City,liv579
+Metropolitan,liv579
+Jubilee,lon343
+Northern,lon343
+Central,lou703
+Bakerloo,mai827
+Piccadilly,man137
+Circle,man155
+District,man155
+Central,mar960
+Bakerloo,mar700
+District,mil485
+Hammersmith & City,mil485
+Central,mil485
+Northern,mil113
+Metropolitan,moo476
+Circle,moo191
+Hammersmith & City,moo191
+Metropolitan,moo191
+Northern,mor587
+Northern,mor128
+Jubilee,nea517
+Central,new387
+Central,nor176
+Piccadilly,nor436
+Jubilee,nor156
+Metropolitan,nor525
+Bakerloo,nor238
+London Overground,nor238
+Piccadilly,nor515
+Central,nor285
+Metropolitan,nor535
+Metropolitan,nor939
+Metropolitan,nor477
+Central,not741
+Circle,not741
+District,not741
+Piccadilly,oak920
+Northern,old535
+Piccadilly,ost757
+Northern,ova137
+Bakerloo,oxf732
+Central,oxf732
+Victoria,oxf732
+Bakerloo,pad679
+Circle,pad679
+District,pad679
+Hammersmith & City,pad679
+Piccadilly,par533
+District,par284
+Central,per296
+Bakerloo,pic597
+Piccadilly,pic597
+Victoria,pim803
+Metropolitan,pin563
+District,pla177
+Hammersmith & City,pla177
+Metropolitan,pre971
+District,put418
+Bakerloo,que498
+London Overground,que498
+Jubilee,que786
+Central,que326
+District,rav545
+Metropolitan,ray439
+Piccadilly,ray439
+Central,red310
+Bakerloo,reg997
+District,ric229
+London Overground,ric229
+Metropolitan,ric259
+Central,rod582
+Circle,roy707
+Hammersmith & City,roy707
+Metropolitan,rui649
+Piccadilly,rui649
+Central,rui230
+Metropolitan,rui252
+Piccadilly,rui252
+Piccadilly,rus425
+London Overground,sev668
+Victoria,sev668
+Central,she795
+Hammersmith & City,she830
+Circle,she830
+Circle,slo748
+District,slo748
+Central,sna776
+Piccadilly,sou366
+Piccadilly,sou332
+District,sou978
+Piccadilly,sou978
+Circle,sou978
+Bakerloo,sou601
+London Overground,sou601
+Central,sou195
+Northern,sou190
+Central,sou563
+District,sou724
+Piccadilly,sou430
+Jubilee,sou122
+Circle,st.541
+District,st.541
+Jubilee,st.961
+Central,st.916
+District,sta233
+Jubilee,sta570
+District,ste637
+Hammersmith & City,ste637
+Northern,sto172
+Victoria,sto172
+Bakerloo,sto858
+London Overground,sto858
+Central,str424
+DLR,str424
+Jubilee,str424
+London Overground,str424
+TfL Rail,str424
+Piccadilly,sud926
+Piccadilly,sud623
+Jubilee,swi969
+Circle,tem258
+District,tem258
+Central,the803
+Northern,too203
+Northern,too477
+Central,tot239
+Northern,tot239
+TfL Rail,tot239
+Victoria,tot354
+Northern,tot295
+Circle,tow831
+District,tow831
+Northern,tuf494
+District,tur796
+Piccadilly,tur796
+Piccadilly,tur583
+District,upm316
+London Overground,upm316
+District,upm394
+District,upn508
+District,upt277
+Hammersmith & City,upt277
+Metropolitan,uxb982
+Piccadilly,uxb982
+Victoria,vau716
+Circle,vic449
+District,vic449
+Victoria,vic449
+London Overground,wal463
+Victoria,wal463
+Central,wan258
+Northern,war141
+Victoria,war141
+Bakerloo,war341
+Bakerloo,wat559
+Jubilee,wat559
+Northern,wat559
+Waterloo & City,wat559
+Metropolitan,wat575
+Bakerloo,wem922
+London Overground,wem922
+Metropolitan,wem863
+Jubilee,wem863
+Central,wes265
+District,wes671
+London Overground,wes671
+Northern,wes486
+District,wes954
+DLR,wes954
+Hammersmith & City,wes954
+Jubilee,wes954
+Jubilee,wes259
+Metropolitan,wes193
+District,wes321
+Central,wes608
+Circle,wes192
+Hammersmith & City,wes192
+Circle,wes973
+District,wes973
+Jubilee,wes973
+Central,whi943
+District,whi824
+Hammersmith & City,whi824
+London Overground,whi824
+TfL Rail,whi824
+Jubilee,wil667
+Bakerloo,wil361
+London Overground,wil361
+District,wim269
+District,wim611
+Piccadilly,woo472
+Circle,woo621
+Hammersmith & City,woo621
+Central,woo774
+Northern,woo214

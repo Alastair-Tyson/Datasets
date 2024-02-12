@@ -1,0 +1,28 @@
+product_code,line,category,color,price
+ot_grey,Ocly,t-shirt,grey,11.4
+ot_black,Ocly,t-shirt,black,11.4
+ot_white,Ocly,t-shirt,white,11.4
+ojean,Ocly,jeans,blue,33.25
+opolo,Ocly,polo shirt,blue,14.25
+oh_grey,Ocly,hoodie,grey,26.6
+oh_black,Ocly,hoodie,black,26.6
+oh_white,Ocly,hoodie,white,26.6
+vt_grey,Verchecco,t-shirt,grey,12.36
+vt_black,Verchecco,t-shirt,black,12.36
+vt_white,Verchecco,t-shirt,white,12.36
+vjean,Verchecco,jeans,blue,36.05
+vpolo,Verchecco,polo shirt,blue,15.45
+vh_grey,Verchecco,hoodie,grey,28.84
+vh_black,Verchecco,hoodie,black,28.84
+vh_white,Verchecco,hoodie,white,28.84
+mjeans,Magnusberg,jeans,blue,40.12
+mh_grey,Magnusberg,hoodie,grey,26.6
+mh_black,Magnusberg,hoodie,black,26.6
+pt_grey,Piaris,t-shirt,grey,12.12
+pt_black,Piaris,t-shirt,black,12.12
+pt_white,Piaris,t-shirt,white,12.12
+pjean,Piaris,jeans,blue,35.35
+ppolo,Piaris,polo shirt,blue,15.15
+ph_grey,Piaris,hoodie,grey,28.28
+ph_black,Piaris,hoodie,black,28.28
+ph_white,Piaris,hoodie,white,28.28

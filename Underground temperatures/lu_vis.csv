@@ -1,0 +1,278 @@
+station_id,station_name,Longitude,Latitude,Borough
+act316,Acton Town,-0.280302697,51.50307099,Ealing
+ald843,Aldgate,-0.075626912,51.51434226,City of London
+ald579,Aldgate East,-0.073001462,51.51508151,Tower Hamlets
+alp186,Alperton,-0.299515753,51.54120879,Brent
+ame377,Amersham,-0.606513768,51.67412833,Chiltern
+ang779,Angel,-0.105581448,51.53296785,Islington
+arc933,Archway,-0.135121576,51.56549032,Islington
+arn984,Arnos Grove,-0.134270218,51.61622992,Enfield
+ars283,Arsenal,-0.105499933,51.55854121,Islington
+bak394,Baker Street,-0.156904193,51.52312937,City of Westminster
+bal367,Balham,-0.152685162,51.44318231,Wandsworth
+ban753,Bank & Monument,-0.0891,51.5123,City of London
+bar182,Barbican,-0.097721578,51.52021513,City of London
+bar352,Barking,0.08083161,51.53952125,Barking and Dagenham
+bar528,Barkingside,0.08847664,51.58585076,Redbridge
+bar970,Barons Court,-0.213430142,51.49022833,Hammersmith and Fulham
+bay243,Bayswater,-0.187901572,51.51211098,City of Westminster
+bec820,Becontree,0.126880293,51.53958562,Barking and Dagenham
+bel904,Belsize Park,-0.163974491,51.55019061,Camden
+ber640,Bermondsey,-0.06433009,51.49796068,Southwark
+bet419,Bethnal Green,-0.055392111,51.52719165,Tower Hamlets
+bla684,Blackfriars,-0.102995385,51.51158676,City of London
+bla749,Blackhorse Road,-0.039625711,51.58577656,Waltham Forest
+bon489,Bond Street,-0.149613609,51.51379728,City of Westminster
+bor939,Borough,-0.094197323,51.50104872,Southwark
+bos861,Boston Manor,-0.324747183,51.49576501,Ealing
+bou551,Bounds Green,-0.124177065,51.60703172,Haringey
+bow325,Bow Road,-0.024359591,51.52704177,Tower Hamlets
+bre132,Brent Cross,-0.213335838,51.57659887,Barnet
+bri164,Brixton,-0.114552097,51.46273662,Lambeth
+bro523,Bromley-by-Bow,-0.011682374,51.52484018,Tower Hamlets
+buc141,Buckhurst Hill,0.046712541,51.62657674,Epping Forest
+bur173,Burnt Oak,-0.264330708,51.60255148,Barnet
+cal320,Caledonian Road,-0.118360861,51.54788525,Islington
+cam290,Camden Town,-0.14245238,51.53996912,Camden
+can846,Canada Water,-0.050807121,51.49816833,Southwark
+can872,Canary Wharf,-0.01946684,51.50357838,Tower Hamlets
+can421,Canning Town,0.008305633,51.5138703,Newham
+can199,Cannon Street,-0.090250526,51.51136194,City of London
+can418,Canons Park,-0.294391591,51.60765009,Harrow
+cha661,Chalfont & Latimer,-0.5609,51.6685,Chiltern
+cha415,Chalk Farm,-0.15373307,51.54414884,Camden
+cha346,Chancery Lane,-0.111962027,51.51849384,City of London
+cha534,Charing Cross,-0.124802937,51.50835843,City of Westminster
+che444,Chesham,-0.611429635,51.70537902,Chiltern
+chi133,Chigwell,0.076179215,51.617858,Epping Forest
+chi138,Chiswick Park,-0.267736918,51.49437028,Ealing
+cho915,Chorleywood,-0.518333911,51.65426508,Three Rivers
+cla242,Clapham Common,-0.138314901,51.46180345,Lambeth
+cla635,Clapham North,-0.129910062,51.464916,Lambeth
+cla155,Clapham South,-0.147984068,51.45267625,Wandsworth
+coc556,Cockfosters,-0.14991671,51.65202424,Enfield
+col275,Colindale,-0.25028754,51.59523011,Barnet
+col102,Colliers Wood,-0.177415098,51.4187589,Merton
+cov999,Covent Garden,-0.124506894,51.51276003,City of Westminster
+cro575,Croxley,-0.441603787,51.64700456,Three Rivers
+dag923,Dagenham East,0.165833433,51.54418761,Barking and Dagenham
+dag722,Dagenham Heathway,0.147679721,51.54121204,Barking and Dagenham
+deb454,Debden,0.083801475,51.64549214,Epping Forest
+dol272,Dollis Hill,-0.238797758,51.5518502,Brent
+eal997,Ealing Broadway,-0.302010376,51.51486148,Ealing
+eal390,Ealing Common,-0.287151413,51.51024819,Ealing
+ear404,Earl's Court,-0.193,51.491,Kensington and Chelsea
+eas162,East Acton,-0.248112221,51.51626301,Hammersmith and Fulham
+eas277,East Finchley,-0.164743884,51.58733228,Barnet
+eas275,East Ham,0.051516293,51.53924625,Newham
+eas596,East Putney,-0.210998232,51.45887944,Wandsworth
+eas468,Eastcote,-0.39682329,51.57655118,Hillingdon
+edg385,Edgware,-0.275093662,51.61422917,Barnet
+edg476,Edgware Road (Bak),-0.1682,51.5194,City of Westminster
+edg703,Edgware Road (Cir),-0.1692,51.5206,City of Westminster
+ele374,Elephant & Castle,-0.1,51.4943,Southwark
+elm691,Elm Park,0.197252684,51.54912491,Havering
+emb734,Embankment,-0.122367336,51.5073123,City of Westminster
+epp178,Epping,0.113825554,51.69368635,Epping Forest
+eus865,Euston,-0.133296471,51.52866411,Camden
+eus352,Euston Square,-0.135344488,51.52546838,Camden
+fai851,Fairlop,0.09059328,51.59610969,Redbridge
+far177,Farringdon,-0.104843061,51.52019552,Islington
+fin279,Finchley Central,-0.193220635,51.60090294,Barnet
+fin155,Finchley Road,-0.180050559,51.54709591,Camden
+fin567,Finsbury Park,-0.105881486,51.56463527,Islington
+ful646,Fulham Broadway,-0.195544162,51.48026059,Hammersmith and Fulham
+gan798,Gants Hill,0.066084098,51.57655306,Redbridge
+glo284,Gloucester Road,-0.183543558,51.49449926,Kensington and Chelsea
+gol341,Golders Green,-0.194834557,51.57221522,Barnet
+gol416,Goldhawk Road,-0.227404003,51.5020766,Hammersmith and Fulham
+goo324,Goodge Street,-0.134807689,51.52061289,Camden
+gra423,Grange Hill,0.09227253,51.61348058,Redbridge
+gre593,Great Portland Street,-0.143961424,51.52378856,City of Westminster
+gre948,Green Park,-0.142477574,51.50676025,City of Westminster
+gre181,Greenford,-0.345878733,51.54197951,Ealing
+gun516,Gunnersbury,-0.275164131,51.49186296,Hounslow
+hai801,Hainault,0.094108551,51.60284548,Redbridge
+ham786,Hammersmith (Dis),-0.2247,51.4936,Hammersmith and Fulham
+ham724,Hammersmith (H&C),-0.2247,51.4936,Hammersmith and Fulham
+ham275,Hampstead,-0.178014558,51.55654231,Camden
+han219,Hanger Lane,-0.292996141,51.53007156,Ealing
+har938,Harlesden,-0.25749567,51.53625791,Brent
+har796,Harrow & Wealdstone,-0.3347,51.5925,Harrow
+har677,Harrow-on-the-Hill,-0.337001511,51.57938757,Harrow
+hat419,Hatton Cross,-0.423380553,51.46668461,Hillingdon
+hea900,Heathrow Terminal 4,-0.447729578,51.4597797,Hillingdon
+hea476,Heathrow Terminal 5,-0.490647489,51.47002462,Hillingdon
+hea781,Heathrow Terminals 123,-0.4555,51.4713,Hillingdon
+hen192,Hendon Central,-0.226734137,51.58313268,Barnet
+hig428,High Barnet,-0.194165378,51.65168794,Barnet
+hig952,High Street Kensington,-0.191566055,51.50072913,Kensington and Chelsea
+hig119,Highbury & Islington,-0.1058,51.5465,Islington
+hig115,Highgate,-0.146934861,51.57764638,Haringey
+hil845,Hillingdon,-0.449897982,51.55377678,Hillingdon
+hol670,Holborn,-0.119840507,51.51723554,Camden
+hol831,Holland Park,-0.206557775,51.50714615,Kensington and Chelsea
+hol925,Holloway Road,-0.112935696,51.55281592,Islington
+hor479,Hornchurch,0.218926999,51.55435547,Havering
+hou624,Hounslow Central,-0.365958121,51.47092517,Hounslow
+hou302,Hounslow East,-0.355275314,51.47370731,Hounslow
+hou279,Hounslow West,-0.38570762,51.47310509,Hounslow
+hyd545,Hyde Park Corner,-0.152474113,51.50258377,City of Westminster
+ick711,Ickenham,-0.441579501,51.56082433,Hillingdon
+ken612,Kennington,-0.105070613,51.48866229,Southwark
+ken929,Kensal Green,-0.224713381,51.53052385,Brent
+ken987,Kensington (Olympia),-0.21037924,51.49787936,Kensington and Chelsea
+ken954,Kentish Town,-0.140471263,51.55000929,Camden
+ken860,Kenton,-0.315216861,51.58149577,Brent
+kew260,Kew Gardens,-0.285381007,51.47678867,Richmond
+kil436,Kilburn,-0.204632717,51.5469441,Brent
+kil584,Kilburn Park,-0.193966055,51.53513522,Brent
+kin366,King's Cross St. Pancras,-0.1243,51.5313,Camden
+kin287,Kingsbury,-0.278601604,51.58487606,Brent
+kni875,Knightsbridge,-0.160664485,51.50135464,Kensington and Chelsea
+lad852,Ladbroke Grove,-0.21019817,51.51721033,Kensington and Chelsea
+lam982,Lambeth North,-0.11176826,51.49912977,Lambeth
+lan850,Lancaster Gate,-0.175429927,51.51189066,City of Westminster
+lat716,Latimer Road,-0.217459663,51.51395774,Kensington and Chelsea
+lei771,Leicester Square,-0.128242147,51.51129097,City of Westminster
+ley888,Leyton,-0.006465332,51.55813226,Waltham Forest
+ley250,Leytonstone,0.009140452,51.56852231,Waltham Forest
+liv579,Liverpool Street,-0.082249622,51.51759813,City of London
+lon343,London Bridge,-0.086005598,51.50467421,Southwark
+lou703,Loughton,0.055279079,51.64157057,Epping Forest
+mai827,Maida Vale,-0.185432645,51.52999476,City of Westminster
+man137,Manor House,-0.095684976,51.57074699,Hackney
+man155,Mansion House,-0.094197657,51.5120916,City of London
+mar960,Marble Arch,-0.158571215,51.51396523,City of Westminster
+mar700,Marylebone,-0.163492562,51.5223964,City of Westminster
+mil485,Mile End,-0.032666084,51.52531092,Tower Hamlets
+mil113,Mill Hill East,-0.20989571,51.6083163,Barnet
+moo476,Moor Park,-0.432913016,51.62992996,Three Rivers
+moo191,Moorgate,-0.089017687,51.518437,City of London
+mor587,Morden,-0.19485198,51.40218564,Merton
+mor128,Mornington Crescent,-0.138744349,51.53436199,Camden
+nea517,Neasden,-0.250115042,51.55462731,Brent
+new387,Newbury Park,0.090303158,51.57563851,Redbridge
+nor176,North Acton,-0.259729524,51.523432,Ealing
+nor436,North Ealing,-0.288993548,51.51762182,Ealing
+nor156,North Greenwich,0.003586259,51.50025516,Greenwich
+nor525,North Harrow,-0.362632986,51.58463071,Harrow
+nor238,North Wembley,-0.303948214,51.5623958,Brent
+nor515,Northfields,-0.315064813,51.50049116,Ealing
+nor285,Northolt,-0.368440588,51.5482123,Ealing
+nor535,Northwick Park,-0.318199386,51.57850817,Brent
+nor939,Northwood,-0.423837776,51.61121292,Hillingdon
+nor477,Northwood Hills,-0.409311348,51.60080198,Hillingdon
+not741,Notting Hill Gate,-0.195921616,51.50937502,Kensington and Chelsea
+oak920,Oakwood,-0.131853539,51.64763775,Enfield
+old535,Old Street,-0.087622957,51.52558133,Islington
+ost757,Osterley,-0.352096089,51.48121624,Hounslow
+ova137,Oval,-0.113321075,51.48141242,Lambeth
+oxf732,Oxford Circus,-0.14083617,51.51522317,City of Westminster
+pad679,Paddington,-0.17573675,51.5153935,City of Westminster
+par533,Park Royal,-0.284928913,51.52683356,Ealing
+par284,Parsons Green,-0.20112449,51.47495983,Hammersmith and Fulham
+per296,Perivale,-0.323070416,51.53634129,Ealing
+pic597,Piccadilly Circus,-0.133711596,51.50969653,City of Westminster
+pim803,Pimlico,-0.133108257,51.48955265,City of Westminster
+pin563,Pinner,-0.381223782,51.59236106,Harrow
+pla177,Plaistow,0.017780642,51.53128837,Newham
+pre971,Preston Road,-0.294972007,51.57210325,Brent
+put418,Putney Bridge,-0.209365414,51.467865,Hammersmith and Fulham
+que498,Queen's Park,-0.2048,51.5346,Brent
+que786,Queensbury,-0.286331593,51.59388251,Brent
+que326,Queensway,-0.187419901,51.51044893,City of Westminster
+rav545,Ravenscourt Park,-0.23596923,51.4940676,Hammersmith and Fulham
+ray439,Rayners Lane,-0.371060806,51.57539613,Harrow
+red310,Redbridge,0.045394044,51.57636699,Redbridge
+reg997,Regent's Park,-0.1448,51.5239,City of Westminster
+ric229,Richmond,-0.301739129,51.46323239,Richmond
+ric259,Rickmansworth,-0.473684571,51.64032224,Three Rivers
+rod582,Roding Valley,0.044026207,51.61695652,Epping Forest
+roy707,Royal Oak,-0.188823672,51.51829405,City of Westminster
+rui649,Ruislip,-0.421234916,51.57216123,Hillingdon
+rui230,Ruislip Gardens,-0.409294101,51.55995951,Hillingdon
+rui252,Ruislip Manor,-0.412849344,51.5734509,Hillingdon
+rus425,Russell Square,-0.124590197,51.52301284,Camden
+sev668,Seven Sisters,-0.072466823,51.58336204,Haringey
+she795,Shepherd's Bush (Cen),-0.2196,51.5049,Hammersmith and Fulham
+she830,Shepherd's Bush (H&C),-0.2269,51.5058,Hammersmith and Fulham
+slo748,Sloane Square,-0.156488856,51.49235951,Kensington and Chelsea
+sna776,Snaresbrook,0.021463928,51.58089131,Redbridge
+sou366,South Ealing,-0.307040239,51.50164352,Ealing
+sou332,South Harrow,-0.351893964,51.56467959,Harrow
+sou978,South Kensington,-0.173923021,51.49407108,Kensington and Chelsea
+sou601,South Kenton,-0.308142972,51.57104395,Brent
+sou195,South Ruislip,-0.399115901,51.55688965,Hillingdon
+sou190,South Wimbledon,-0.191974544,51.4153604,Merton
+sou563,South Woodford,0.027943078,51.59155266,Redbridge
+sou724,Southfields,-0.206609383,51.44488298,Wandsworth
+sou430,Southgate,-0.127770046,51.63237564,Enfield
+sou122,Southwark,-0.105794939,51.50385345,Southwark
+st.541,St. James's Park,-0.133878754,51.49960958,City of Westminster
+st.961,St. John's Wood,-0.174,51.5344,City of Westminster
+st.916,St. Paul's,-0.0978,51.5143,City of London
+sta233,Stamford Brook,-0.245246306,51.49444957,Hammersmith and Fulham
+sta570,Stanmore,-0.303099288,51.61967295,Harrow
+ste637,Stepney Green,-0.047382523,51.52199576,Tower Hamlets
+sto172,Stockwell,-0.122846303,51.47215906,Lambeth
+sto858,Stonebridge Park,-0.275400437,51.54398611,Brent
+str424,Stratford,-0.003751641,51.54169258,Newham
+sud926,Sudbury Hill,-0.336392109,51.55733901,Ealing
+sud623,Sudbury Town,-0.31634348,51.55139693,Brent
+swi969,Swiss Cottage,-0.175626603,51.54303456,Camden
+tem258,Temple,-0.11372575,51.51104042,City of Westminster
+the803,Theydon Bois,0.102890737,51.67255225,Epping Forest
+too203,Tooting Bec,-0.159700491,51.4358378,Wandsworth
+too477,Tooting Broadway,-0.168684526,51.42704887,Wandsworth
+tot239,Tottenham Court Road,-0.131110438,51.51621066,City of Westminster
+tot354,Tottenham Hale,-0.060187822,51.58799768,Haringey
+tot295,Totteridge & Whetstone,-0.1795,51.6309,Barnet
+tow831,Tower Hill,-0.076701198,51.51039415,Tower Hamlets
+tuf494,Tufnell Park,-0.137742174,51.55644058,Islington
+tur796,Turnham Green,-0.254524564,51.49518153,Hounslow
+tur583,Turnpike Lane,-0.102805041,51.59035797,Haringey
+upm316,Upminster,0.251400805,51.55876377,Havering
+upm394,Upminster Bridge,0.234541892,51.55771919,Havering
+upn508,Upney,0.101531745,51.53840582,Barking and Dagenham
+upt277,Upton Park,0.03454184,51.53662826,Newham
+uxb982,Uxbridge,-0.477101546,51.54645373,Hillingdon
+vau716,Vauxhall,-0.123829952,51.4857356,Lambeth
+vic449,Victoria,-0.143920705,51.49642372,City of Westminster
+wal463,Walthamstow Central,-0.019940545,51.58301808,Waltham Forest
+wan258,Wanstead,0.028760472,51.5749022,Redbridge
+war141,Warren Street,-0.138278331,51.52457976,Camden
+war341,Warwick Avenue,-0.182953291,51.52310414,City of Westminster
+wat559,Waterloo,-0.113259251,51.50314646,Lambeth
+wat575,Watford,-0.417269997,51.65760442,Watford
+wem922,Wembley Central,-0.296392322,51.5518643,Brent
+wem863,Wembley Park,-0.279242548,51.563322,Brent
+wes265,West Acton,-0.280657171,51.51776969,Ealing
+wes671,West Brompton,-0.19553881,51.4873286,Kensington and Chelsea
+wes486,West Finchley,-0.188917107,51.60926242,Barnet
+wes954,West Ham,0.005317394,51.52852553,Newham
+wes259,West Hampstead,-0.191126583,51.54747402,Camden
+wes193,West Harrow,-0.35384669,51.57892366,Harrow
+wes321,West Kensington,-0.206203692,51.49010903,Hammersmith and Fulham
+wes608,West Ruislip,-0.437860134,51.56958716,Hillingdon
+wes192,Westbourne Park,-0.200882513,51.52098851,City of Westminster
+wes973,Westminster,-0.125002078,51.50140139,City of Westminster
+whi943,White City,-0.224631929,51.51223207,Hammersmith and Fulham
+whi824,Whitechapel,-0.059420485,51.51958769,Tower Hamlets
+wil667,Willesden Green,-0.222407601,51.54937292,Brent
+wil361,Willesden Junction,-0.24390914,51.53223357,Brent
+wim269,Wimbledon,-0.206662833,51.42110751,Merton
+wim611,Wimbledon Park,-0.199186273,51.43458063,Merton
+woo472,Wood Green,-0.109526589,51.59745355,Haringey
+woo621,Wood Lane,-0.224472606,51.50965783,Hammersmith and Fulham
+woo774,Woodford,0.034056202,51.6072019,Redbridge
+woo214,Woodside Park,-0.185425503,51.6178681,Barnet
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
